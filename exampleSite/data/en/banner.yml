@@ -8,5 +8,5 @@ banner:
   content: Hello.
   button:
     enable: true
-    label: Know Me Better
+    label: Know Me More
     link: "#services"
