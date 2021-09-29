@@ -4,9 +4,8 @@ banner:
   bg_image_webp: "/images//backgrounds/background.webp"
   bg_image: "/images//backgrounds/background.JPG"
   icon: ''
-  title: Hello! This is Jiawen Han.
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Jiawen Han.
+  content: Hello.
   button:
     enable: true
     label: Explore Us
