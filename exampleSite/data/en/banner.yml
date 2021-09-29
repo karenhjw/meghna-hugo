@@ -1,10 +1,10 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/sea_background.mov
-  bg_image: images/sea_background.mov
+  bg_image_webp: "/images/background.webp"
+  bg_image: "/images/background.jpg"
   icon: ''
-  title: Experience the new reality
+  title: Hello! This is Jiawen Han.
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
     At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
   button:
