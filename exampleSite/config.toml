@@ -32,7 +32,7 @@ weight = 6
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 7
+weight = "5"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
