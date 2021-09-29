@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/sea_background.mov.jpg
-  bg_image: images/sea_background.mov.jpg
+  bg_image_webp: images/sea_background.mov
+  bg_image: images/sea_background.mov
   icon: ''
   title: Experience the new reality
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
