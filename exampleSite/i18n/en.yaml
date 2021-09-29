@@ -1,3 +1,4 @@
+---
 - id: blogTitle
   translation: Latest Post
 - id: readMore
@@ -15,16 +16,10 @@
 - id: about
   translation: About Us
 - id: services
-  translation: Service
+  translation: About ME
 - id: portfolio
   translation: Portfolio
-- id: team
-  translation: Team
-- id: pricing
-  translation: Pricing
 - id: blog
   translation: Blog
 - id: contact
   translation: Contact
-- id: themefisher
-  translation: Themefisher
