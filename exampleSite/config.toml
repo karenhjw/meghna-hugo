@@ -28,7 +28,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "Publications"
 url = "#blog"
-weight = 6
+weight = "4"
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "#contact"
