@@ -12,9 +12,9 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = "1"
 [[Languages.en.menu.main]]
-name = "about"
+name = "About ME"
 url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
