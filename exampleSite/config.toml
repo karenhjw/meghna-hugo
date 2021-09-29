@@ -22,7 +22,7 @@ name = "services"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "Projects"
 url = "#portfolio"
 weight = 3
 [[Languages.en.menu.main]]
