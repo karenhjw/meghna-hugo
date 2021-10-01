@@ -7,6 +7,8 @@ skill:
     UX designer. '
   image: "/images/skillset_example.webp"
   skill_item:
+  - name: Research Methodology (Experiment Design/Hypothesis Test)
+    percent: ''
   - name: Machine Learning (Model/Implementation/Evaluation)
     percent: 50%
   - name: Programming Language (Python/R/SQL)
