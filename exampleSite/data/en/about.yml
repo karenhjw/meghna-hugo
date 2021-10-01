@@ -3,6 +3,10 @@ about:
   enable: true
   title: About Me
   about_item:
+  - icon: ti-cup
+    title: Skills
+    content: "1. Programming Language: Python/R/SQL\n\n2. Data Science Pipeline: Clean/Process/Analyze/Visualize
+      \n\n3. Tool Sets: Photoshop/Illustrator/Sketch"
   - icon: ti-ruler-pencil
     title: Education Background
     content: "・Sun Yat-sen University, Bachelor in Internet and New Media\n\n・Keio
