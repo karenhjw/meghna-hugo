@@ -3,7 +3,7 @@ about:
   enable: true
   title: About Me
   about_item:
-  - icon: ti-ruler_pencil
+  - icon: ti-ruler-pencil
     title: Education
     content: |-
       Sun Yat-sen University, Bachelor in Internet and New Media
