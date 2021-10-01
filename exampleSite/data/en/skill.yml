@@ -7,13 +7,11 @@ skill:
     UX designer. '
   image: "/images/skillset_example.webp"
   skill_item:
+  - name: Machine Learning (Model/Implementation/Evaluation)
+    percent: 50%
   - name: Programming Language (Python/R/SQL)
     percent: 60%
-  - name: Analytical Thinking
-    percent: 70%
   - name: Data Science pipeline (Clean/Process/Analyze/Visualize)
-    percent: 60%
-  - name: Python
     percent: 60%
   - name: Design Software (Photoshop/Illustrator/Sketch)
     percent: 80%
