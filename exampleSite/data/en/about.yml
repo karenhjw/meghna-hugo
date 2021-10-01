@@ -3,6 +3,6 @@ about:
   enable: true
   title: About Me
   about_item:
-  - icon: ''
+  - icon: ti-thought
     title: Education
     content: ''
