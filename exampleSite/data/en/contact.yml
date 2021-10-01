@@ -5,22 +5,17 @@ contact:
   subtitle: ''
   content: ''
   contact_list:
-  - icon: "[6] "
-    info: '[6] Kim, Christopher Changmok, Jiawen Han, Dingding Zheng, George Chernyshov,
-      and Kai Kunze. "Using Smart Eyewear to Sense Electrodermal Activity While Reading."
-      In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive
-      and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium
-      on Wearable Computers, pp. 472-475. 2021.'
-  - icon: "[5]"
-    info: '[5] He, Y., D. Zheng, G. Chernyshov, R. Thomsen, J. Han, D. Hynds, Y. S.
-      Pai, K. Kunze, and K. Minamizawa. "Frisson Waves: Sharing Frisson to Create
-      Collective Empathetic Experiences for Music Performances." In 2021 IEEE World
-      Haptics Conference (WHC), pp. 591-591. IEEE, 2021.'
-  - icon: "[4]"
-    info: '[4] Fu, Zhuoqi, Jiawen Han, Dingding Zheng, Moe Sugawa, Taichi Furukawa,
-      Chernyshov George, Hynds Danny et al. "Boiling Mind-A Dataset of Physiological
-      Signals during an Exploratory Dance Performance." In Augmented Humans Conference
-      2021, pp. 301-303. 2021.'
+  - info: '[1] Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji
+      Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context
+      based on handwriting features." In Proceedings of the 10th Augmented Human International
+      Conference 2019, pp. 1-8. 2019.'
+    icon: "[1]"
+  - icon: "[2]"
+    info: '[2] Bao, Jie, Jiawen Han, Akira Kato, and Kai Kunze. "Sleepy watch: towards
+      predicting daytime sleepiness based on body temperature." In Adjunct Proceedings
+      of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+      and Proceedings of the 2020 ACM International Symposium on Wearable Computers,
+      pp. 9-12. 2020.'
   - icon: "[3]"
     info: '[3] Sugawa, Moe, Taichi Furukawa, George Chernyshov, Danny Hynds, Jiawen
       Han, Marcelo Padovani, Dingding Zheng, Karola Marky, Kai Kunze, and Kouta Minamizawa.
@@ -28,17 +23,22 @@ contact:
       and Visualization of Heart and Electrodermal Activities." In Proceedings of
       the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction,
       pp. 1-10. 2021.'
-  - icon: "[2]"
-    info: '[2] Bao, Jie, Jiawen Han, Akira Kato, and Kai Kunze. "Sleepy watch: towards
-      predicting daytime sleepiness based on body temperature." In Adjunct Proceedings
-      of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing
-      and Proceedings of the 2020 ACM International Symposium on Wearable Computers,
-      pp. 9-12. 2020.'
-  - info: '[1] Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji
-      Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context
-      based on handwriting features." In Proceedings of the 10th Augmented Human International
-      Conference 2019, pp. 1-8. 2019.'
-    icon: "[1]"
+  - icon: "[4]"
+    info: '[4] Fu, Zhuoqi, Jiawen Han, Dingding Zheng, Moe Sugawa, Taichi Furukawa,
+      Chernyshov George, Hynds Danny et al. "Boiling Mind-A Dataset of Physiological
+      Signals during an Exploratory Dance Performance." In Augmented Humans Conference
+      2021, pp. 301-303. 2021.'
+  - icon: "[5]"
+    info: '[5] He, Y., D. Zheng, G. Chernyshov, R. Thomsen, J. Han, D. Hynds, Y. S.
+      Pai, K. Kunze, and K. Minamizawa. "Frisson Waves: Sharing Frisson to Create
+      Collective Empathetic Experiences for Music Performances." In 2021 IEEE World
+      Haptics Conference (WHC), pp. 591-591. IEEE, 2021.'
+  - icon: "[6] "
+    info: '[6] Kim, Christopher Changmok, Jiawen Han, Dingding Zheng, George Chernyshov,
+      and Kai Kunze. "Using Smart Eyewear to Sense Electrodermal Activity While Reading."
+      In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive
+      and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium
+      on Wearable Computers, pp. 472-475. 2021.'
   contact_form:
     enable: false
     form_action: "#"
