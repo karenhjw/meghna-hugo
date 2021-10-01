@@ -5,7 +5,7 @@ skill:
   subtitle: Working in an interdisciplinary field.
   content: 'My skill sets that accelerate my work as a researcher, data analyst, and
     UX designer. '
-  image: images/about/company-growth.webp
+  image: images/skillset_example.webp
   skill_item:
   - name: SQL
     percent: 10%
