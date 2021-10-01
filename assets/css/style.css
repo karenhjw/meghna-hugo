@@ -416,7 +416,7 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #57cbcc;
+  color: #afbac4;
 }
 
 .navbar-toggler:focus {
@@ -555,7 +555,7 @@ a:hover {
 }
 
 .about .block:hover {
-  border-bottom: 2px solid #57cbcc;
+  border-bottom: 2px solid #8dbff7;
 }
 
 .about .block:hover .icon-box {
@@ -1427,7 +1427,7 @@ a:hover {
 .comment-reply-form input:focus,
 .comment-reply-form textarea:focus {
   box-shadow: none;
-  border: 1px solid #57cbcc;
+  border: 1px solid #8dbff7;
 }
 
 .comment-reply-form textarea,
