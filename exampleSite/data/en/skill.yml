@@ -1,26 +1,15 @@
-################################# Skill ##################################
+---
 skill:
-  enable : true
-  title : Our Skills
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
-  skill_item :
-    # skill item loop
-    - name :  Business Development
-      percent : 90%
-      
-    # skill item loop
-    - name :  Analysis
-      percent : 70%
-      
-    # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
-      percent : 95%
-      
-    # skill item loop
-    - name :  Android Development
-      percent : 75%
+  enable: true
+  title: Skill Sets
+  subtitle: Working in an interdisciplinary field.
+  content: 'My skill sets that accelerate my work as a researcher, data analyst, and
+    UX designer. '
+  image: images/about/company-growth.webp
+  skill_item:
+  - name: Business Development
+    percent: 90%
+  - name: Analytical Thinking
+    percent: 70%
+  - name: Design
+    percent: 80%
