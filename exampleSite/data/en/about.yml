@@ -5,12 +5,9 @@ about:
   about_item:
   - icon: ti-ruler-pencil
     title: Education Background
-    content: |-
-      ・Sun Yat-sen University, Bachelor in Internet and New Media
-
-      ・Keio University, Master in Media Design (Engineering and Science Specialist)
-
-      ・Keio University, PhD (Candidate) in Media Design (Engineering and Science Specialist)
+    content: "・Sun Yat-sen University, Bachelor in Internet and New Media\n\n・Keio
+      University, Master in Media Design (Dean's List) \n\n・Keio University, PhD (Candidate)
+      in Media Design"
   - icon: ti-cup
     title: Certificate and Award
     content: ''
