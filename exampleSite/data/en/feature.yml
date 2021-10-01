@@ -1,6 +1,6 @@
 ---
 feature:
-  enable: true
+  enable: false
   image: ''
   image_webp: ''
   title: Publications
