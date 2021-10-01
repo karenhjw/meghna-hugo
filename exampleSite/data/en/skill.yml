@@ -9,8 +9,6 @@ skill:
   skill_item:
   - name: Research Methodology (Experiment Design/Hypothesis Test)
     percent: "85"
-  - name: Machine Learning (Model/Implementation/Evaluation)
-    percent: 50%
   - name: Programming Language (Python/R/SQL)
     percent: 60%
   - name: Data Science pipeline (Clean/Process/Analyze/Visualize)
