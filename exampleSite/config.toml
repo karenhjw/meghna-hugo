@@ -14,6 +14,10 @@ languageCode = "en-us"
 languageName = "En"
 weight = "1"
 [[Languages.en.menu.main]]
+name = "Post"
+url = "#blog"
+weight = "4"
+[[Languages.en.menu.main]]
 name = "About ME"
 url = "#about"
 weight = 1
@@ -25,10 +29,6 @@ weight = 3
 name = "Publications"
 url = "#contact"
 weight = "4"
-[[Languages.en.menu.main]]
-name = "Contact"
-url = "#contact"
-weight = "5"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
