@@ -11,13 +11,9 @@ skill:
     percent: 60%
   - name: Analytical Thinking
     percent: 70%
-  - name: 'Data Science pipeline '
+  - name: Data Science pipeline (Clean/Process/Analyze/Visualize)
     percent: 60%
   - name: Python
     percent: 60%
-  - name: SQL
-    percent: 10%
-  - name: R
-    percent: 10%
   - name: Sketch
     percent: 80%
