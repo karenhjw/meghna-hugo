@@ -15,13 +15,7 @@ contact:
     [5] Bao, Jie, Jiawen Han, Akira Kato, and Kai Kunze. "Sleepy watch: towards predicting daytime sleepiness based on body temperature." In Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2020 ACM International Symposium on Wearable Computers, pp. 9-12. 2020.
 
     [6] Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context based on handwriting features." In Proceedings of the 10th Augmented Human International Conference 2019, pp. 1-8. 2019.
-  contact_list:
-  - icon: ''
-    info: Kim, Christopher Changmok, Jiawen Han, Dingding Zheng, George Chernyshov,
-      and Kai Kunze. "Using Smart Eyewear to Sense Electrodermal Activity While Reading."
-      In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive
-      and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium
-      on Wearable Computers, pp. 472-475. 2021.
+  contact_list: []
   contact_form:
     enable: false
     form_action: "#"
