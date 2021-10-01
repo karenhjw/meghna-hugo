@@ -22,7 +22,7 @@ name = "Projects"
 url = "#portfolio"
 weight = "2"
 [[Languages.en.menu.main]]
-name = "Post"
+name = "Blog"
 url = "#blog"
 weight = "3"
 [[Languages.en.menu.main]]
