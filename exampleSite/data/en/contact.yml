@@ -16,6 +16,11 @@ contact:
 
     [6] Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context based on handwriting features." In Proceedings of the 10th Augmented Human International Conference 2019, pp. 1-8. 2019.
   contact_list:
+  - icon: "[5]"
+    info: '[5] He, Y., D. Zheng, G. Chernyshov, R. Thomsen, J. Han, D. Hynds, Y. S.
+      Pai, K. Kunze, and K. Minamizawa. "Frisson Waves: Sharing Frisson to Create
+      Collective Empathetic Experiences for Music Performances." In 2021 IEEE World
+      Haptics Conference (WHC), pp. 591-591. IEEE, 2021.'
   - icon: "[4]"
     info: '[4] Fu, Zhuoqi, Jiawen Han, Dingding Zheng, Moe Sugawa, Taichi Furukawa,
       Chernyshov George, Hynds Danny et al. "Boiling Mind-A Dataset of Physiological
