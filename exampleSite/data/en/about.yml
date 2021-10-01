@@ -3,9 +3,9 @@ about:
   enable: true
   title: About Me
   about_item:
-  - icon: ''
-    title: ti-cup
-    content: Basic
+  - icon: ti-cup
+    title: Basic
+    content: ''
   - icon: ti-ruler-pencil
     title: Education
     content: |-
