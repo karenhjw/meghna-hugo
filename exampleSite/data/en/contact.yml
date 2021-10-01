@@ -16,6 +16,11 @@ contact:
 
     [6] Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context based on handwriting features." In Proceedings of the 10th Augmented Human International Conference 2019, pp. 1-8. 2019.
   contact_list:
+  - icon: "[4]"
+    info: '[4] Fu, Zhuoqi, Jiawen Han, Dingding Zheng, Moe Sugawa, Taichi Furukawa,
+      Chernyshov George, Hynds Danny et al. "Boiling Mind-A Dataset of Physiological
+      Signals during an Exploratory Dance Performance." In Augmented Humans Conference
+      2021, pp. 301-303. 2021.'
   - icon: "[3]"
     info: '[3] Sugawa, Moe, Taichi Furukawa, George Chernyshov, Danny Hynds, Jiawen
       Han, Marcelo Padovani, Dingding Zheng, Karola Marky, Kai Kunze, and Kouta Minamizawa.
