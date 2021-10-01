@@ -8,7 +8,7 @@ skill:
   image: ''
   skill_item:
   - name: Research Methodology (Experiment Design/Hypothesis Test)
-    percent: "75"
+    percent: "85"
   - name: Machine Learning (Model/Implementation/Evaluation)
     percent: 50%
   - name: Programming Language (Python/R/SQL)
