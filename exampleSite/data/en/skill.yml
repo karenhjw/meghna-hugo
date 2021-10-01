@@ -7,8 +7,8 @@ skill:
     UX designer. '
   image: images/about/company-growth.webp
   skill_item:
-  - name: Business Development
-    percent: 90%
+  - name: R
+    percent: 20%
   - name: Analytical Thinking
     percent: 70%
   - name: Python
