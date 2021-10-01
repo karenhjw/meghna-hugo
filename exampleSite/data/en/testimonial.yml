@@ -7,5 +7,10 @@ testimonial:
   - name: 'This is Jiawen. '
     image: "/images/jiawen.jpg"
     image_webp: "/images/jiawen.webp"
-    date: Chinese Researcher living in Tokyo
-    content: Researcher / Data Analyst / UX Designer / Dog Person
+    date: 2021.October
+    content: |-
+      From Shenyang, China
+
+      Currently in Tokyo, Japan
+
+      Researcher / Data Analyst / UX Designer / Dog Person
