@@ -1,7 +1,7 @@
 ---
 testimonial:
   enable: true
-  bg_image: "/images/testimonialback.JPG"
+  bg_image: "/images/testimonialback.jpg"
   bg_image_webp: "/images/testimonialback.webp"
   testimonial_item:
   - name: 'This is Jiawen. '
