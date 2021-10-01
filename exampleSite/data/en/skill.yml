@@ -7,19 +7,19 @@ skill:
     UX designer. '
   image: "/images/skillset_example.webp"
   skill_item:
-  - name: SQL
-    percent: 10%
+  - name: Analytical Thinking
+    percent: 70%
   - name: 'User Experience Evaluation '
-    percent: 80%
-  - name: 'Experimental Design and Hypothesis Testing '
-    percent: 80%
-  - name: Sketch
     percent: 80%
   - name: 'Data Science pipeline '
     percent: 60%
-  - name: R
-    percent: 10%
-  - name: Analytical Thinking
-    percent: 70%
+  - name: 'Experimental Design and Hypothesis Testing '
+    percent: 80%
   - name: Python
     percent: 60%
+  - name: SQL
+    percent: 10%
+  - name: R
+    percent: 10%
+  - name: Sketch
+    percent: 80%
