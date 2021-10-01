@@ -3,9 +3,6 @@ about:
   enable: true
   title: About Me
   about_item:
-  - icon: ti-cup
-    title: Basic
-    content: "From China, Shenyang. \n\nCurrently in Japan, Tokyo."
   - icon: ti-ruler-pencil
     title: Education
     content: |-
@@ -14,3 +11,6 @@ about:
       Keio University, Master in Media Design (Engineering and Science Specialist)
 
       Keio University, PhD (Candidate) in Media Design (Engineering and Science Specialist)
+  - icon: ti-cup
+    title: Certificate and Award
+    content: ''
