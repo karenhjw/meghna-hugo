@@ -3,15 +3,15 @@ about:
   enable: true
   title: About Me
   about_item:
-  - icon: ti-cup
-    title: Skills
-    content: "· Programming Language: Python/R/SQL\n\n· Data Science Pipeline: Clean/Process/Analyze/Visualize
-      \n\n· Tool Sets: Photoshop/Illustrator/Sketch"
   - icon: ti-ruler-pencil
     title: Education Background
     content: "・Sun Yat-sen University, Bachelor in Internet and New Media\n\n・Keio
       University, Master in Media Design (Dean's List) \n\n・Keio University, PhD (Candidate)
       in Media Design"
+  - icon: ti-cup
+    title: Skills
+    content: "· Programming Language: Python/R/SQL\n\n· Data Science Pipeline: Clean/Process/Analyze/Visualize
+      \n\n· Tool Sets: Photoshop/Illustrator/Sketch"
   - icon: ti-thought
     title: Contact
     content: |-
