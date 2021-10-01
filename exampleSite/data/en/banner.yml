@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Know Me More
-    link: "#about"
+    link: "#testimonial"
