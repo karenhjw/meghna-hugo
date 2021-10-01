@@ -14,10 +14,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = "1"
 [[Languages.en.menu.main]]
-name = "Post"
-url = "#blog"
-weight = "4"
-[[Languages.en.menu.main]]
 name = "About ME"
 url = "#about"
 weight = 1
@@ -25,6 +21,10 @@ weight = 1
 name = "Projects"
 url = "#portfolio"
 weight = 3
+[[Languages.en.menu.main]]
+name = "Post"
+url = "#blog"
+weight = "3"
 [[Languages.en.menu.main]]
 name = "Publications"
 url = "#contact"
