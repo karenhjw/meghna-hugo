@@ -14,10 +14,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = "1"
 [[Languages.en.menu.main]]
-name = "Skills"
-url = "#skill"
-weight = "2"
-[[Languages.en.menu.main]]
 name = "About ME"
 url = "#about"
 weight = 1
