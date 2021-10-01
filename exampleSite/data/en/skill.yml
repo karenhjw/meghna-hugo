@@ -8,7 +8,7 @@ skill:
   image: images/about/company-growth.webp
   skill_item:
   - name: R
-    percent: 20%
+    percent: 10%
   - name: Analytical Thinking
     percent: 70%
   - name: Python
