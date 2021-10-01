@@ -7,6 +7,8 @@ skill:
     UX designer. '
   image: images/about/company-growth.webp
   skill_item:
+  - name: 'User Experience Evaluation '
+    percent: 80%
   - name: 'Experimental Design and Hypothesis Testing '
     percent: 80%
   - name: Sketch
