@@ -1,31 +1,32 @@
-############################## Contact #############################
+---
 contact:
-  enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  enable: true
+  title: Publications
+  subtitle: 'My publications '
+  content: |
+    [1] Kim, Christopher Changmok, Jiawen Han, Dingding Zheng, George Chernyshov, and Kai Kunze. "Using Smart Eyewear to Sense Electrodermal Activity While Reading." In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium on Wearable Computers, pp. 472-475. 2021.
 
-  # Contact details
+    [2] He, Y., D. Zheng, G. Chernyshov, R. Thomsen, J. Han, D. Hynds, Y. S. Pai, K. Kunze, and K. Minamizawa. "Frisson Waves: Sharing Frisson to Create Collective Empathetic Experiences for Music Performances." In 2021 IEEE World Haptics Conference (WHC), pp. 591-591. IEEE, 2021.
+
+    [3] Fu, Zhuoqi, Jiawen Han, Dingding Zheng, Moe Sugawa, Taichi Furukawa, Chernyshov George, Hynds Danny et al. "Boiling Mind-A Dataset of Physiological Signals during an Exploratory Dance Performance." In Augmented Humans Conference 2021, pp. 301-303. 2021.
+
+    [4] Sugawa, Moe, Taichi Furukawa, George Chernyshov, Danny Hynds, Jiawen Han, Marcelo Padovani, Dingding Zheng, Karola Marky, Kai Kunze, and Kouta Minamizawa. "Boiling Mind: Amplifying the Audience-Performer Connection through Sonification and Visualization of Heart and Electrodermal Activities." In Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction, pp. 1-10. 2021.
+
+    [5] Bao, Jie, Jiawen Han, Akira Kato, and Kai Kunze. "Sleepy watch: towards predicting daytime sleepiness based on body temperature." In Adjunct Proceedings of the 2020 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2020 ACM International Symposium on Wearable Computers, pp. 9-12. 2020.
+
+    [6] Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context based on handwriting features." In Proceedings of the 10th Augmented Human International Conference 2019, pp. 1-8. 2019.
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
-
-
-  # Contact form
+  - icon: ''
+    info: Kim, Christopher Changmok, Jiawen Han, Dingding Zheng, George Chernyshov,
+      and Kai Kunze. "Using Smart Eyewear to Sense Electrodermal Activity While Reading."
+      In Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive
+      and Ubiquitous Computing and Proceedings of the 2021 ACM International Symposium
+      on Wearable Computers, pp. 472-475. 2021.
   contact_form:
-    enable : true
-    form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    enable: true
+    form_action: "#"
+    name: Your Name
+    email: Your Email
+    subject: Subject
+    message: Message
+    submit: Submit
