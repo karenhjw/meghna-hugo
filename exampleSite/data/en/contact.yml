@@ -16,6 +16,13 @@ contact:
 
     [6] Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context based on handwriting features." In Proceedings of the 10th Augmented Human International Conference 2019, pp. 1-8. 2019.
   contact_list:
+  - icon: "[3]"
+    info: '[3] Sugawa, Moe, Taichi Furukawa, George Chernyshov, Danny Hynds, Jiawen
+      Han, Marcelo Padovani, Dingding Zheng, Karola Marky, Kai Kunze, and Kouta Minamizawa.
+      "Boiling Mind: Amplifying the Audience-Performer Connection through Sonification
+      and Visualization of Heart and Electrodermal Activities." In Proceedings of
+      the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction,
+      pp. 1-10. 2021.'
   - icon: "[2]"
     info: '[2] Bao, Jie, Jiawen Han, Akira Kato, and Kai Kunze. "Sleepy watch: towards
       predicting daytime sleepiness based on body temperature." In Adjunct Proceedings
