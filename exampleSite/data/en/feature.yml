@@ -6,10 +6,12 @@ feature:
   title: Publications
   content: 'This is the list of my publications. '
   feature_item:
-  - title: SEO Optimized
-    icon: ti-stats-up
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: "1"
+    icon: ''
+    content: 'Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji
+      Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context
+      based on handwriting features." In Proceedings of the 10th Augmented Human International
+      Conference 2019, pp. 1-8. 2019.'
   - title: Easy Customization
     icon: ti-announcement
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
