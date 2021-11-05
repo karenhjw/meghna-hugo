@@ -9,7 +9,7 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 /*=== MEDIA QUERY ===*/
 html {
   background-color:#e6f0f7;
-  color: #ffffff;
+  color: #e6f1fc;
 }
 
 body {
@@ -1220,7 +1220,7 @@ a:hover {
 }
 
 .post-block {
-  background-color: #cfd2d4;
+  background-color: #e6f1fc;
   margin-bottom: 10px;
 }
 
