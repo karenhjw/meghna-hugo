@@ -1216,7 +1216,7 @@ a:hover {
 ==================================================================*/
 .note {
   background-color: #a7b4c2;
-  border: 1px solid #4e595f;
+  border: 1px solid #ffffff;
 }
 
 .post-block {
@@ -1236,7 +1236,7 @@ a:hover {
 }
 
 .note .media-wrapper {
-  border-bottom: 1px solid #4e595f;
+  border-bottom: 1px solid #ffffff;
 }
 
 .note .excerpt h3 {
