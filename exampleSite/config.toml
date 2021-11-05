@@ -69,7 +69,7 @@ author = "Jiawen Han"
 description = "Website developed via the Meghan-Hugo Template "
 google_analytics_id = ""
 logo = "images/logo.png"
-post_share = true
+post_share = false
 social = []
 [params.cookies]
 enable = true
