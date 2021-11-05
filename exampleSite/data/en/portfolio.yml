@@ -4,9 +4,10 @@ portfolio:
   title: Involved Projects
   portfolio_item:
   - name: test
-    image: ''
-    image_webp: ''
-    categories: ''
+    image: images/portfolio/portfolio-1.jpg
+    image_webp: images/portfolio/portfolio-1.webp
+    categories:
+    - test
     content: 'test '
     link: ''
   - name: Tag Design
