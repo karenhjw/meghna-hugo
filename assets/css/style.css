@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color: #4a4c4f;
 }
 
 p {
@@ -407,7 +407,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #1d2024;
+  background-color: #babdc2;
   width: 100%;
   margin-bottom: 0;
 }
@@ -1304,7 +1304,7 @@ a:hover {
 }
 
 .single-blog {
-  background-color: #fff;
+  background-color: #2e3030;
   margin-bottom: 50px;
   padding: 20px;
 }
@@ -1722,7 +1722,7 @@ aside.widget {
 }
 
 .widget-title>h3 {
-  color: #fff;
+  color: #2e3030;
   margin-bottom: 15px;
   margin-top: 0;
   position: relative;
@@ -1777,7 +1777,7 @@ aside.widget {
 }
 
 .tab-excerpt h4 a {
-  color: #fff;
+  color: #6cb670;
 }
 
 .tab-excerpt h4 a:hover {
