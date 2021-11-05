@@ -1,6 +1,6 @@
 ---
 - id: blogTitle
-  translation: Blog
+  translation: Projects
 - id: readMore
   translation: Read more
 - id: viewAllPost
