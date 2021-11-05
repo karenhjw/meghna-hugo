@@ -303,23 +303,23 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #6f7070;
+  color: #646666;
 }
 
 .title h2 span {
-  color: ##ffffff;
+  color: #ffffff;
 }
 
 .title p {
-  color:#878a8a;
+  color:#646666;
 }
 
 .title.title-white h2 {
-  color: ##ffffff;
+  color: #ffffff;
 }
 
 .bg-gray {
-  background: #6f7070;
+  background: #646666;
 }
 
 .section-bg {
@@ -547,7 +547,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #e6eef7;
+  background: #f2f7fc;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -1220,7 +1220,7 @@ a:hover {
 }
 
 .post-block {
-  background-color: #788894;
+  background-color: #9ea7ad;
   margin-bottom: 10px;
 }
 
@@ -1346,7 +1346,7 @@ a:hover {
 }
 
 .social-profile ul li a {
-  color: #4e595f;
+  color: #9ea7ad;
   display: block;
   font-size: 16px;
 }
@@ -1520,7 +1520,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #26292e;
+  background-color: #dedede;
   border: 1px solid transparent;
   display: block;
   height: 70px;
@@ -1538,7 +1538,7 @@ input#e-mail,
 }
 
 .social-icon ul li a i {
-  color: #55606a;
+  color: #dedede;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;
@@ -1675,7 +1675,7 @@ input#e-mail,
 }
 
 .post-meta {
-  background-color: #d3e0f0;
+  background-color: #ffffff;
   border-top: 1px solid #4e595f;
   font-size: 13px;
   margin: 20px 0 0;
