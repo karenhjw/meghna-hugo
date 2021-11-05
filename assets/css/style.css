@@ -8,12 +8,12 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color:#ffffff;
+  background-color:#e6f0f7;
   color: #ffffff;
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #e6f0f7;
   font-family: "Anaheim", sans-serif;
   color:#ffffff;
   -webkit-font-smoothing: antialiased;
@@ -48,7 +48,7 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #ffffff;
+  background: #e6f0f7;
 }
 
 ::selection {
@@ -407,7 +407,7 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #e1ebfa;
+  background-color: #788894;
   width: 100%;
   margin-bottom: 0;
 }
@@ -663,7 +663,7 @@ a:hover {
   padding: 100px 0;
   background-image: url("../images/call-to-action/call-to-action-bg.jpg");
   background-size: cover;
-  color: #fff;
+  color: #788894;
 }
 
 .call-to-action-2 h2 {
@@ -1351,7 +1351,7 @@ a:hover {
   font-size: 16px;
 }
 
-.social-profile ul li a i:hover {
+.social-profile ul li a i:hover 
   color: #57cbcc;
 }
 
