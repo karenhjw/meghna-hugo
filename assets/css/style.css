@@ -1215,12 +1215,12 @@ a:hover {
   Latest Posts
 ==================================================================*/
 .note {
-  background-color: #292F36;
+  background-color: #d3e0f0;
   border: 1px solid #4e595f;
 }
 
 .post-block {
-  background-color: #292F36;
+  background-color: #d3e0f0;
   margin-bottom: 10px;
 }
 
@@ -1304,7 +1304,7 @@ a:hover {
 }
 
 .single-blog {
-  background-color: #2e3030;
+  background-color: #d3e0f0;
   margin-bottom: 50px;
   padding: 20px;
 }
@@ -1529,7 +1529,7 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover {
-  background: #57cbcc;
+  background: #ffffff;
 }
 
 .social-icon ul li a:hover i {
@@ -1675,7 +1675,7 @@ input#e-mail,
 }
 
 .post-meta {
-  background-color: #3d444a;
+  background-color: #d3e0f0;
   border-top: 1px solid #4e595f;
   font-size: 13px;
   margin: 20px 0 0;
@@ -1811,7 +1811,7 @@ aside.widget {
 }
 
 .widget-content .tag {
-  background-color: #2F383D;
+  background-color: #d3e0f0;
   color: #fff;
   display: inline-block;
   margin-bottom: 10px;
