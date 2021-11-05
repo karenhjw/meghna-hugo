@@ -2,8 +2,8 @@
 title: How To Setup Meghna Hugo
 date: 2018-09-12T14:51:12.000+06:00
 author: Mark Dinn
-image_webp: "/images/boilingmind.webp"
-image: "/images/boilingmind.jpg"
+image_webp: "/images/background.webp"
+image: "/images/background.JPG"
 description: This is meta description
 
 ---
