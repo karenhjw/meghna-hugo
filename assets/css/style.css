@@ -8,14 +8,14 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color: #c5d2e3;
-  color: #737f8a;
+  background-color:#ffffff;
+  color: #ffffff;
 }
 
 body {
-  background-color: #c5d2e3;
+  background-color: #ffffff;
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color:#ffffff;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #000000;
+  color: #ffffff;
 }
 
 p {
@@ -48,7 +48,7 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #ffffff;
 }
 
 ::selection {
@@ -141,7 +141,7 @@ a:hover {
 }
 
 .color {
-  color: #6CB670;
+  color: #ffffff;
 }
 
 .sub-title {
@@ -163,11 +163,11 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: #ffffff;
 }
 
 .bg-dark {
-  background: #242930;
+  background: #ffffff;
 }
 
 .parallax-section {
@@ -303,7 +303,7 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #4b4c4d;
+  color: #ffffff;
 }
 
 .title h2 span {
@@ -311,7 +311,7 @@ a:hover {
 }
 
 .title p {
-  color: #666;
+  color:#ffffff;
 }
 
 .title.title-white h2 {
@@ -319,7 +319,7 @@ a:hover {
 }
 
 .bg-gray {
-  background: #f9f9f9;
+  background: #ffffff;
 }
 
 .section-bg {
@@ -475,7 +475,7 @@ a:hover {
 
 .hero-area .block h1 {
   font-size: 90px;
-  color: #4b4c4d;
+  color: #ffffff;
   text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 20px;
@@ -524,7 +524,7 @@ a:hover {
 }
 
 .hero-area-video .block p {
-  color: #4b4c4d;
+  color: #ffffff;
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 3px;
