@@ -52,7 +52,7 @@ pre {
 }
 
 ::selection {
-  color: #fff;
+  color: #4b4c4d;
   background: #57cbcc;
 }
 
@@ -65,7 +65,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color: #4b4c4d;
   transition: all .3s ease-in 0s;
 }
 
@@ -303,7 +303,7 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #fff;
+  color: #4b4c4d;
 }
 
 .title h2 span {
@@ -315,7 +315,7 @@ a:hover {
 }
 
 .title.title-white h2 {
-  color: #fff;
+  color: #4b4c4d;
 }
 
 .bg-gray {
@@ -346,7 +346,7 @@ a:hover {
 
 .header-bradcrumb a,
 .header-bradcrumb .active {
-  color: #000000;
+  color: #ffffff;
   font-weight: 200;
   font-family: "Quattrocento Sans", sans-serif;
 }
@@ -475,7 +475,7 @@ a:hover {
 
 .hero-area .block h1 {
   font-size: 90px;
-  color: #fff;
+  color: #4b4c4d;
   text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 20px;
@@ -488,7 +488,7 @@ a:hover {
 }
 
 .hero-area .block p {
-  color: #fff;
+  color: #4b4c4d;
   font-size: 20px;
   width: 70%;
   margin: 0 auto;
@@ -513,7 +513,7 @@ a:hover {
 }
 
 .hero-area-video .block {
-  color: #fff;
+  color: #4b4c4d;
   text-align: center;
 }
 
@@ -524,7 +524,7 @@ a:hover {
 }
 
 .hero-area-video .block p {
-  color: #fff;
+  color: #4b4c4d;
   text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 3px;
