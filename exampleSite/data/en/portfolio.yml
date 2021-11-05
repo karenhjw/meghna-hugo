@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   title: Involved Projects
   portfolio_item:
   - name: test
