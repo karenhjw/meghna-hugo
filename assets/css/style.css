@@ -39,7 +39,7 @@ p {
 }
 
 pre {
-  color: #5e6163;
+  color: #ffffff;
 }
 
 /*=================================================================
@@ -307,7 +307,7 @@ a:hover {
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: ##ffffff;
 }
 
 .title p {
@@ -315,7 +315,7 @@ a:hover {
 }
 
 .title.title-white h2 {
-  color: #4b4c4d;
+  color: ##ffffff;
 }
 
 .bg-gray {
@@ -323,7 +323,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background: #ffffff;
 }
 
 .overly {
@@ -352,7 +352,7 @@ a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #57cbcc;
+  color: #ffffff;
 }
 
 .slick-slide {
