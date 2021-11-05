@@ -20,6 +20,6 @@
 - id: portfolio
   translation: Portfolio
 - id: blog
-  translation: Blog
+  translation: Projects
 - id: contact
   translation: Contact
