@@ -1,4 +1,5 @@
 +++
+date = 2021-12-06T15:00:00Z
 description = "This project is a collaboration between Session House and KMD. "
 image = "/images/boilingmind.jpg"
 image_webp = "/images/boilingmind.webp"
