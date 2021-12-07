@@ -52,7 +52,7 @@ pre {
 }
 
 ::selection {
-  color: #fff;
+  color: #4b4c4d;
   background: #57cbcc;
 }
 
@@ -65,7 +65,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color:#4b4c4d;
   transition: all .3s ease-in 0s;
 }
 
