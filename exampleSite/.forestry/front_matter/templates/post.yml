@@ -5,13 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: author
-  label: author
-  description: 'Ex: John Doe'
 - type: file
   name: image_webp
   label: image webp
