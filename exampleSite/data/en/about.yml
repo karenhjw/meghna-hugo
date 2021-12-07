@@ -5,9 +5,12 @@ about:
   about_item:
   - icon: ti-ruler-pencil
     title: Education Background
-    content: "・Sun Yat-sen University, Bachelor in Internet and New Media\n\n・Keio
-      University, Master in Media Design (Dean's List) \n\n・Keio University, PhD (Candidate)
-      in Media Design"
+    content: |-
+      ・Keio University, PhD (Candidate) in Media Design
+
+      ・Keio University, Master in Media Design
+
+      ・SYSU, Bachelor in Internet and New Media
   - icon: ti-cup
     title: Skills
     content: "· Programming Language: Python/R/SQL\n\n· Data Science Pipeline: Clean/Process/Analyze/Visualize
