@@ -1,6 +1,6 @@
 ---
 title: 'BoilingMind '
-date: 2021-11-05T15:51:12.000+09:00
+date: 2021-11-05T15:51:12+09:00
 image_webp: "/images/boilingmind.webp"
 image: "/images/boilingmind.jpg"
 author: Session House (Mademoiselle Cinema), Keio Media Design (Embodied Media,Geist)
@@ -35,4 +35,4 @@ After that you need to go to the `meghna-hugo/exampleSite` folder and copy or cu
 
 open the command prompt again and run `cd ../` command for go back to the root folder.
 
-### 
+###
