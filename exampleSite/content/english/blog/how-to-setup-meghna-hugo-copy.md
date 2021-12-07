@@ -1,7 +1,7 @@
 +++
 author = "Mark Dinn"
 date = 2018-09-12T08:51:12Z
-description = "This is meta description"
+description = "This is meta description "
 draft = true
 image = "/images/background.JPG"
 image_webp = "/images/background.webp"
