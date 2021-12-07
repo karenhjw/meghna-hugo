@@ -15,3 +15,5 @@ fields:
   name: description
   label: description
   description: meta description
+pages:
+- exampleSite/content/english/blog/boiling-mind-project.md
