@@ -1220,7 +1220,7 @@ a:hover {
 }
 
 .post-block {
-  background-color: #8cbcbd;
+  background-color: #bad3d4;
   margin-bottom: 10px;
 }
 
@@ -1228,7 +1228,7 @@ a:hover {
   padding: 20px;
 }
 
-.post-block .content h6 {
+.post-block .content h3 {
   margin: 0 0 6px;
   font-size: 20px;
   line-height: 1.5;
@@ -1239,7 +1239,7 @@ a:hover {
   border-bottom: 1px solid #57cbcc;
 }
 
-.note .excerpt h6 {
+.note .excerpt h3 {
   font-size: 20px;
   line-height: 1.5;
   text-transform: capitalize;
