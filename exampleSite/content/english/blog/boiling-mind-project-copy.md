@@ -6,11 +6,11 @@ image_webp = ""
 title = "Sentiment Pen "
 
 +++
-Sentiment pen project is to investigate the possibilities of emotion recognition via daily life activities -- writing and drawing.
+Sentiment pen project is to investigate the possibilities of emotion recognition via daily life activities -- writing and drawing. The proposed concept exemplifies how a digital system could recognize the emotional context of the interaction. 
 
 #### Project Description
 
-The proposed concept exemplifies how a digital system could recognize the emotional context of the interaction. We discuss our approach to emotion recognition and the underlying neuro- physiological mechanisms. To verify the viability of our approach, we have conducted a series of tests where participants were asked to perform simple writing tasks after being exposed to a series of emotionally-stimulating video clips from The Emotional Movie Database (EMDB) one set of four clips per each quadrant on the circumplex model of emotion. The user-independent Support Vector Classifier (SVC) built using the recorded data shows up to 66% accuracy for certain types of writing tasks for 1 in 4 classification (1. High Valence, High Arousal; 2. High Valence, Low Arousal; 3. Low Valence, High Arousal; 4. Low Valence, Low Arousal).
+We discuss our approach to emotion recognition and the underlying neuro- physiological mechanisms. To verify the viability of our approach, we have conducted a series of tests where participants were asked to perform simple writing tasks after being exposed to a series of emotionally-stimulating video clips from The Emotional Movie Database (EMDB) one set of four clips per each quadrant on the circumplex model of emotion. The user-independent Support Vector Classifier (SVC) built using the recorded data shows up to 66% accuracy for certain types of writing tasks for 1 in 4 classification (1. High Valence, High Arousal; 2. High Valence, Low Arousal; 3. Low Valence, High Arousal; 4. Low Valence, Low Arousal).
 
 #### Experiment Setup
 
