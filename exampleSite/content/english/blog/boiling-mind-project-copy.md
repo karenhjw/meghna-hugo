@@ -6,11 +6,9 @@ image_webp = "/images/pen.webp"
 title = "Sentiment Pen "
 
 +++
-Sentiment pen project is to investigate the possibilities of emotion recognition via daily life activities -- writing and drawing. The proposed concept exemplifies how a digital system could recognize the emotional context of the interaction. 
+Sentiment pen project is to investigate the possibilities of emotion recognition via daily life activities -- writing and drawing. The proposed concept exemplifies how a digital system could recognize the emotional context of the interaction.
 
 Handwriting is a widespread example of such an activity. Handwriting is a tradi- tionally non-digital way of recording information and conveying it to others. With the advent of the digital era, digital pens or styli allow users to digitize their writings and drawings instantly and store them on their digital devices. Digitized handwriting gives us access to precise handwriting data without requiring computer vision. Every stroke’s data can be recorded and emotion-related features can be extracted as the user writes or draws. We discuss our approach to emotion recognition and the underlying neuro- physiological mechanisms of handwriting (e.g. autonomic nervous system, muscle memory ).
-
-_This project is supported by JST CREST program._
 
 #### Data Collection and Labeling
 
@@ -24,6 +22,10 @@ The score results of this classification are presented on the figure below. We r
 
 ![](/images/independent.jpg)
 
-### Related Publications
+#### Related Publications
 
 _\[1\]_ Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context based on handwriting features." In _Proceedings of the 10th Augmented Human International Conference 2019_, pp. 1-8. 2019.
+
+#### Funding 
+
+###### This project is supported by JST CREST program.
