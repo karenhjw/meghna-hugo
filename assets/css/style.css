@@ -513,7 +513,7 @@ a:hover {
 }
 
 .hero-area-video .block {
-  color: #4b4c4d;
+  color: #fff;
   text-align: center;
 }
 
@@ -663,7 +663,7 @@ a:hover {
   padding: 100px 0;
   background-image: url("../images/call-to-action/call-to-action-bg.jpg");
   background-size: cover;
-  color: #788894;
+  color: #fff;
 }
 
 .call-to-action-2 h2 {
@@ -1722,7 +1722,7 @@ aside.widget {
 }
 
 .widget-title>h3 {
-  color: #2e3030;
+  color: #fff;
   margin-bottom: 15px;
   margin-top: 0;
   position: relative;
