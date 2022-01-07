@@ -6,9 +6,11 @@ image_webp = "/images/boilingmind.webp"
 title = "Frisson Waves Project "
 
 +++
-Frisson Waves is an embodied concert under the Cybernetic Being project supported by JST Moonshot([https://cybernetic-being.org/works/frisson-waves/](https://cybernetic-being.org/works/frisson-waves/ "https://cybernetic-being.org/works/frisson-waves/")). 
+Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members. 
 
 ### Project Description
+
+Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot([https://cybernetic-being.org/works/frisson-waves/](https://cybernetic-being.org/works/frisson-waves/ "https://cybernetic-being.org/works/frisson-waves/")). 
 
 presented as the artistic product. Both researchers and artists contributed to developing the concept during the iterative process to balance research and artistic interests. This process was mainly led by artists, especially the choreographer. Besides the predetermined story and design, the choreographer also created some improvisational sections where dancers could interact with stage elements affected by audience physiological response.
 
