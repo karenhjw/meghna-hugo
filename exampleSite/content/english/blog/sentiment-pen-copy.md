@@ -26,7 +26,7 @@ Excluding stroke start and end time we analyzed the remaining 40 features in ord
 
 The score results of this classification are presented in the Figure below. We ran classification on the data sets from each task and on all three tasks combined. It was found that the classification precision changes greatly if we use only short or only long strokes. The stroke data was split into short and long strokes in relation to the median for each data set used. Short strokes gave particularly good results for task 3, as it required participants to draw mostly short lines. Accuracy for this test is reaching 66% for 1 in 4 groups classification. Using long strokes showed better results for tasks 1 and 2 with accuracy of 50 and 51% respectively. Surprisingly, the accuracy of classification of the short stroke data set for all 3 tasks was higher than for long stroke data set (47% for short and 35% for long).
 
-![](/images/independent.jpg)
+ ![Streaming system used in the field study. Left is the device for streaming blood volume pressure (BVP) signal. Right is the interface consisted of class content area, streaming area, and camera area.The visualization in the streaming area was generated based on two features: (1) beats per minute (BPM) (2) the percentage of adjacent normal sinus beats’ interbeat intervals that differ from each other by more than 50 ms (pNN50). The red and blue lines represented collective BPM and pNN50 respectively and both were calculated from rolling means of all data contributors every one minute.](/images/streaming.jpg "Streaming system used in the field study.")
 
 ### See More Details in the Related Publications
 
