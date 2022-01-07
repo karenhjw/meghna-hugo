@@ -6,7 +6,7 @@ image_webp = "/images/frisson.webp"
 title = "Frisson Waves Project "
 
 +++
-Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members. 
+Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members.
 
 When live performances deeply resonate with us, our bodies respond with physiological reactions - we call this phenomenon "frisson". However, while some people have a strong frisson response, not all people perceive these moments of mind-body dualism naturally. This ongoing research project aims to understand, share and augment how we experience frisson at classical piano performances.
 
@@ -39,8 +39,9 @@ _\[3\] Article by Moonshot project_ ([https://cybernetic-being.org/works/frisson
 
 #### **Contributors**
 
-###### Direction / Project Lead: Yan He  
-Technical Direction / Engineering: George Chernyshov  
+###### Direction / Project Lead: Yan He
+
+###### Technical Direction / Engineering: George Chernyshov  
 Data Engineering: Jiawen Han  
 Performing: Muyu Liu / Danny Hynds / Yuehui Yang / Ragnar Thomsen / Yan He  
 Technical Support: Dingding Zheng  
