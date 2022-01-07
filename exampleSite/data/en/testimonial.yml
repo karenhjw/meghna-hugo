@@ -4,10 +4,10 @@ testimonial:
   bg_image: "/images/background.jpg"
   bg_image_webp: "/images/background.webp"
   testimonial_item:
-  - name: 'This is Jiawen. '
+  - name: ''
     image: "/images/jiawen.jpg"
     image_webp: "/images/jiawen.webp"
-    date: 2021.October
+    date: ''
     content: |-
       From Shenyang, China
 
