@@ -17,7 +17,13 @@ The system we used in the frisson sharing concert is consisted of :
 
 _Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot._
 
+![](/images/frisson-1.jpg)
+
 **Model Performance**
+
+In order to train the model, we processed the recorded EDA and blood volume pulse (BVP) data as well as when the participants pressed the frisson-report button for data labeling. Our model was trained using the features extracted from a sliding window of one minute with one second overlap. The window was labeled as a frisson event if the button was pressed within the window.  We extracted four EDA features and three HRV features for training the model and applied leave one participant out cross validation (LOPO-CV) to divide data into training and testing sets. The classifier with the best performance presented an average accuracy score of 85.78% (sd = 11.23%). 
+
+**Exploratory Analysis of the Physiological Dataset**
 
 **See More Details in Related Publications**
 
