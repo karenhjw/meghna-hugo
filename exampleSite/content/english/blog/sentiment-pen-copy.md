@@ -1,10 +1,10 @@
 +++
 date = 2022-01-06T15:00:00Z
-description = "This project is about emotion recognition via digital pen and handwritings. "
+description = "online class streaming and hr sharing "
 draft = true
 image = "/images/boilingmind.jpg"
 image_webp = "/images/boilingmind.webp"
-title = "Sentiment Pen -(copy)"
+title = "HR Sharing as Connection"
 
 +++
 Sentiment pen project is to investigate the possibilities of emotion recognition via daily life activities -- writing and drawing.
