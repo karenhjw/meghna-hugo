@@ -1,15 +1,13 @@
 +++
-date = 2022-01-05T15:00:00Z
-description = "This project is a collaboration with Heyan. "
+date = 2021-08-31T15:00:00Z
+description = "This project is a collaboration with yin. "
 draft = true
 image = "/images/frisson.jpg"
 image_webp = "/images/frisson.webp"
-title = "Frisson Waves Project -(copy)"
+title = "Emolleia Flowers"
 
 +++
-Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members.
-
-When live performances deeply resonate with us, our bodies respond with physiological reactions - we call this phenomenon "frisson". However, while some people have a strong frisson response, not all people perceive these moments of mind-body dualism naturally. This ongoing research project aims to understand, share and augment how we experience frisson at classical piano performances.
+Emolleia Flowers project is to explore and design novel non-verbal interaction tools. We explore how to create expressive clothes and accessories that are able to instantaneously reflect our feelings.  We design a wearable kinetic display in form of three 3D printed flowers that can dynamically open and close at different speeds. Users can define their own animated motions. The kinetic display is the result of several design iterations trying to capture the movements of flower ensembles. We want to explore whether this type of wearable accessory could be a novel form of non-verbal communication.
 
 The system we used in the frisson sharing concert is consisted of :
 
@@ -19,7 +17,7 @@ The system we used in the frisson sharing concert is consisted of :
 4. A sharing server that controls the operation of all the devices and manages data processing and recording.
 5. 
 
-   ![](/images/frisson_concert2.jpg)
+![](/images/frisson_concert2.jpg)
 
 #### **Model Performance**
 
