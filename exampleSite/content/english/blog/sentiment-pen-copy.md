@@ -6,7 +6,7 @@ image_webp = "/images/boilingmind.webp"
 title = "HR Sharing as Connection"
 
 +++
-Sentiment pen project is to investigate the possibilities of emotion recognition via daily life activities -- writing and drawing.
+HR Sharing as Connection project is to explore the 
 
 ### Project Description
 
