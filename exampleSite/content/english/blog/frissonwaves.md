@@ -3,7 +3,7 @@ date = 2022-01-05T15:00:00Z
 description = "This project is a collaboration with Heyan. "
 image = "/images/frisson.jpg"
 image_webp = "/images/frisson.webp"
-title = "Frisson Waves Project "
+title = "Frisson Waves"
 
 +++
 Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members.
