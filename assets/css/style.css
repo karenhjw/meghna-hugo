@@ -47,7 +47,7 @@ pre {
 ==================================================================*/
 ::-moz-selection {
   /* Code for Firefox */
-  color: #fff;
+  color: #57cbcc;
   background: #e6f0f7;
 }
 
@@ -65,7 +65,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color: #57cbcc;
   transition: all .3s ease-in 0s;
 }
 
@@ -141,7 +141,7 @@ a:hover {
 }
 
 .color {
-  color: #ffffff;
+  color: #57cbcc;
 }
 
 .sub-title {
