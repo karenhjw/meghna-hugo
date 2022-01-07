@@ -16,9 +16,9 @@ When live performances deeply resonate with us, our bodies respond with physiolo
 
 ### Related Publications
 
-_\[1\] Sugawa, Moe, Taichi Furukawa, George Chernyshov, Danny Hynds, Jiawen Han, Marcelo Padovani, Dingding Zheng, Karola Marky, Kai Kunze, and Kouta Minamizawa. "Boiling Mind: Amplifying the Audience-Performer Connection through Sonification and Visualization of Heart and Electrodermal Activities." In Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction, pp. 1-10. 2021._
+_\[1\]_ He, Y., D. Zheng, G. Chernyshov, R. Thomsen, J. Han, D. Hynds, Y. S. Pai, K. Kunze, and K. Minamizawa. "Frisson Waves: Sharing Frisson to Create Collective Empathetic Experiences for Music Performances." In 2021 IEEE World Haptics Conference (WHC), pp. 591-591. IEEE, 2021.
 
-_\[2\]Fu, Zhuoqi, Jiawen Han, Dingding Zheng, Moe Sugawa, Taichi Furukawa, Chernyshov George, Hynds Danny et al. "Boiling Mind-A Dataset of Physiological Signals during an Exploratory Dance Performance." In Augmented Humans Conference 2021, pp. 301-303. 2021._
+_\[2\] Talks by Professor Kai Kunze: Frisson Waves - Augmenting Aesthetic Chills in Music Performances (_ [https://media.ccc.de/v/rc3-2021-fem-294-frisson-waves-augmentin](https://media.ccc.de/v/rc3-2021-fem-294-frisson-waves-augmentin "Frisson Waves - Augmenting Aesthetic Chills in Music Perfromances") )
 
 ### Contributors
 
