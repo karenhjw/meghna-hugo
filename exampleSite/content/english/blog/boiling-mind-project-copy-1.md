@@ -6,11 +6,9 @@ image_webp = ""
 title = "Frisson Waves Project "
 
 +++
-Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members. Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot.
+Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members. When live performances deeply resonate with us, our bodies respond with physiological reactions - we call this phenomenon "frisson". However, while some people have a strong frisson response, not all people perceive these moments of mind-body dualism naturally. This ongoing research project aims to understand, share and augment how we experience frisson at classical piano performances. 
 
-#### Project Description
-
-When live performances deeply resonate with us, our bodies respond with physiological reactions - we call this phenomenon "frisson". However, while some people have a strong frisson response, not all people perceive these moments of mind-body dualism naturally. This ongoing research project aims to understand, share and augment how we experience frisson at classical piano performances.
+_Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot._
 
 #### Model Performance
 
