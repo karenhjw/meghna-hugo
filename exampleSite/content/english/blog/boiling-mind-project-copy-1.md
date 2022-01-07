@@ -1,10 +1,9 @@
 +++
 date = 2021-12-06T15:00:00Z
-description = "This project is a collaboration between Session House and KMD. "
-draft = true
+description = "This project is a collaboration with Heyan. "
 image = "/images/boilingmind.jpg"
 image_webp = "/images/boilingmind.webp"
-title = "Boiling Mind Project -(copy)"
+title = "Frisson Wave Project "
 
 +++
 BoilingMind is an embodied performance project based on artistic practices and multi-disciplinary collaborations (Session House dancer team, HCI researchers, and wearable computing researchers).  We are guided by an interest in the link between performers and audience members, and the wider question of what makes live performance special.
