@@ -11,7 +11,9 @@ Frisson Waves project is a series of embodied concerts aiming to sharing frisson
 The system we used in the frisson sharing concert is consisted of :
 
 1. A physiological sensing wristband that records and extracts EDA and HRV that can be used to detect when someone has frisson.
-2. 
+2. A machine learning model that processes the wirelessly streamed physiological data for real time classification of the data as frisson or non-frisson.
+3. A neckband with Peltier thermoelectric cooler modules (TEC) and vibro-tactile actuators which can trigger frisson.
+4. A sharing server that controls the operation of all the devices and manages data processing and recording.
 
 _Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot._
 
