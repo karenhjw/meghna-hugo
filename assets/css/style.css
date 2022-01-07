@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #4b4c4d;
+  background-color: #fff;
   font-family: "Anaheim", sans-serif;
   color: #4b4c4d;
   -webkit-font-smoothing: antialiased;
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #000;
+  color: #fff;
 }
 
 p {
