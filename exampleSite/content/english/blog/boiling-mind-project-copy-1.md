@@ -6,17 +6,13 @@ image_webp = "/images/boilingmind.webp"
 title = "Frisson Waves Project "
 
 +++
-Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members. 
+Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members.
 
 ### Project Description
 
-Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot([https://cybernetic-being.org/works/frisson-waves/](https://cybernetic-being.org/works/frisson-waves/ "https://cybernetic-being.org/works/frisson-waves/")). 
+Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot([https://cybernetic-being.org/works/frisson-waves/](https://cybernetic-being.org/works/frisson-waves/ "https://cybernetic-being.org/works/frisson-waves/")).
 
-presented as the artistic product. Both researchers and artists contributed to developing the concept during the iterative process to balance research and artistic interests. This process was mainly led by artists, especially the choreographer. Besides the predetermined story and design, the choreographer also created some improvisational sections where dancers could interact with stage elements affected by audience physiological response.
-
-The choreographer was collaborating with us allowing some improvisational parts where music and dancers could respond to the feedback from the audience. During the performance, the physiological data of the audience was captured using custom built smart wristbands. The physiological data includes heartbeats, EDA, and the LF/HF ratio related to the heart rate variability. The staging elements changed based on the audience's physiological data.
-
-Besides triggering the staging effects, the audience physiological data were also recorded at the same time. We collected 98 audience multi-modal signals over three performances following one choreography design. By ruling out incomplete or noisy data records, we have 80 sets of data for our later data analysis. In our exploratory analysis, we calculated HRV (LF/HF ratio and pNN50) and EDA (EDA change and EDA extrema)features from filtered signal data. We correlated to the performance design especially the choreography design and generated a mapping from the data analysis (_submission under review_).
+When live performances deeply resonate with us, our bodies respond with physiological reactions - we call this phenomenon "frisson". However, while some people have a strong frisson response, not all people perceive these moments of mind-body dualism naturally. This ongoing research project aims to understand, share and augment how we experience frisson at classical piano performances.
 
 ### Related Publications
 
