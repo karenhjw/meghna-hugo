@@ -6,11 +6,9 @@ image_webp = "/images/share_hr.webp"
 title = "HR Sharing as Connection"
 
 +++
-HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants. This project is under the Cybernetic Being project supported by JST Moonshot. This article describes our initial field study where collective HR of distributed learners. 
+HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants. Insufficient social cues between distributed learners in online learning could result in lack of engagement and social bonds. With the development of wearable sensing, sharing physiological data can be used to enhance mutual understanding and connectedness among sharers. Our work aims to explore the potential of sharing heart rate (HR) and heart rate variability (HRV) collected from distributed learners to enhance their online learning experiences. We implemented a physiological streaming system and conducted a field study with 11 learners in online classes.  Our exploratory results suggest streaming collective HR and HRV from multiple distributed learners could be used in online classes to improve engagement and sense of community.
 
-#### Project Description
-
-Insufficient social cues between distributed learners in online learning could result in lack of engagement and social bonds. With the development of wearable sensing, sharing physiological data can be used to enhance mutual understanding and connectedness among sharers. Our work aims to explore the potential of sharing heart rate (HR) and heart rate variability (HRV) collected from distributed learners to enhance their online learning experiences. We implemented a physiological streaming system and conducted a field study with 11 learners in online classes.  Our exploratory results suggest streaming collective HR and HRV from multiple distributed learners could be used in online classes to improve engagement and sense of community.
+_This project is under the Cybernetic Being project supported by JST Moonshot._ 
 
 #### Field Study
 
