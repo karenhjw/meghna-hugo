@@ -6,13 +6,11 @@ image_webp = "/images/boilingmind-1.webp"
 title = "Boiling Mind Project "
 
 +++
-BoilingMind is an embodied performance project based on artistic practices and multi-disciplinary collaborations (Session House dancer team, HCI researchers, and wearable computing researchers).  We are guided by an interest in the link between performers and audience members, and the wider question of what makes live performance special. 
+BoilingMind is an embodied performance project based on artistic practices and multi-disciplinary collaborations (Session House dancer team, HCI researchers, and wearable computing researchers).  We are guided by an interest in the link between performers and audience members, and the wider question of what makes live performance special.
 
 There were one preliminary dance performance and one main final performance ([https://www.youtube.com/watch?v=nTQeedSZU20](https://www.youtube.com/watch?v=nTQeedSZU20 "https://www.youtube.com/watch?v=nTQeedSZU20")) presented as the artistic product. Both researchers and artists contributed to developing the concept during the iterative process to balance research and artistic interests. This process was mainly led by artists, especially the choreographer. Besides the predetermined story and design, the choreographer also created some improvisational sections where dancers could interact with stage elements affected by audience physiological response.
 
 The choreographer was collaborating with us allowing some improvisational parts where music and dancers could respond to the feedback from the audience. During the performance, the physiological data of the audience was captured using custom built smart wristbands. The physiological data includes heartbeats, EDA, and the LF/HF ratio related to the heart rate variability. The staging elements changed based on the audience's physiological data.
-
-This project is supported by JST CREST and  JST Moonshot programs.
 
 #### Exploratory Analysis of Physiological Dataset
 
@@ -26,22 +24,26 @@ _\[2\]Fu, Zhuoqi, Jiawen Han, Dingding Zheng, Moe Sugawa, Taichi Furukawa, Chern
 
 #### Contributors
 
-Project Lead/Artistic Direction/Dancer: Moe Sugawa
+###### Project Lead/Artistic Direction/Dancer: Moe Sugawa
 
-ScreenPlay/Dancer: Mademoiselle Cinema
+###### ScreenPlay/Dancer: Mademoiselle Cinema
 
-Stage Direction: Session House
+###### Stage Direction: Session House
 
-Technical Direction: Yasushi Furukawa
+###### Technical Direction: Yasushi Furukawa
 
-Design, Operations: Yuuto Kawasaki, Yurike Chandra, Arima Shun
+###### Design, Operations: Yuuto Kawasaki, Yurike Chandra, Arima Shun
 
-Adapitve Lighting: Marcelo Padovani
+###### Adapitve Lighting: Marcelo Padovani
 
-Adaptive Sound/Music Design: Danny Hynds
+###### Adaptive Sound/Music Design: Danny Hynds
 
-Wearable Sensing/Analysis/Research: George Chenyshov, Dingding Zheng, Jiawen Han, Kirill Ragozin, Karola Marky, Jamie A. Ward, Zhuoqi Fu
+###### Wearable Sensing/Analysis/Research: George Chenyshov, Dingding Zheng, Jiawen Han, Kirill Ragozin, Karola Marky, Jamie A. Ward, Zhuoqi Fu
 
-Data Analysis: Jiawen Han, Jamie Ward, Kai Kunze, Zhuoqi Fu
+###### Data Analysis: Jiawen Han, Jamie Ward, Kai Kunze, Zhuoqi Fu
 
-Technical Supervision: Kota Minamizawa, Kai Kunze
+###### Technical Supervision: Kota Minamizawa, Kai Kunze
+
+#### Funding 
+
+###### This project is supported by JST CREST and  JST Moonshot programs.
