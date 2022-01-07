@@ -1,8 +1,8 @@
 +++
 date = 2021-12-06T15:00:00Z
 description = "This project is a collaboration with Heyan. "
-image = "/images/boilingmind.jpg"
-image_webp = "/images/boilingmind.webp"
+image = "/images/frisson.jpg"
+image_webp = ""
 title = "Frisson Waves Project "
 
 +++
