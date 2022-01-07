@@ -30,4 +30,4 @@ The score results of this classification are presented in the Figure below. We r
 
 ### See More Details in the Related Publications
 
-_\[1\]_ _Jiawen Han, Chi-lan Yang, George Chernyshov, Zhuoqi Fu, Reiya Horii, Takuji Narumi, , and Kai Kunze. "Exploring Collective Physiology Sharing as Social Cues to Support Engagement in Online Learning." In 20th International Conference on Mobile and Ubiquitous Multimedia (MUM 2021), December 5–8, 2021_
+_\[1\]_ _Jiawen Han, Chi-lan Yang, George Chernyshov, Zhuoqi Fu, Reiya Horii, Takuji Narumi, and Kai Kunze. "Exploring Collective Physiology Sharing as Social Cues to Support Engagement in Online Learning." In 20th International Conference on Mobile and Ubiquitous Multimedia (MUM 2021), December 5–8, 2021_
