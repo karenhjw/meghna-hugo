@@ -15,9 +15,9 @@ The system we used in the frisson sharing concert is consisted of :
 3. A neckband with Peltier thermoelectric cooler modules (TEC) and vibro-tactile actuators which can trigger frisson.
 4. A sharing server that controls the operation of all the devices and manages data processing and recording.
 
-_Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot._
+   ![](/images/frisson_concert.jpg)
 
-![](/images/concert-2-share-frisson.jpg)
+_Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot._
 
 **Model Performance**
 
