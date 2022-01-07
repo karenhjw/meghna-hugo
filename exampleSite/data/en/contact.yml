@@ -5,6 +5,11 @@ contact:
   subtitle: ''
   content: ''
   contact_list:
+  - info: '[7] Jiawen Han, Chi-lan Yang, George Chernyshov, Zhuoqi Fu, Reiya Horii,
+      Takuji Narumi, and Kai Kunze. "Exploring Collective Physiology Sharing as Social
+      Cues to Support Engagement in Online Learning." In 20th International Conference
+      on Mobile and Ubiquitous Multimedia (MUM 2021), December 5–8, 2021'
+    icon: ''
   - info: '[1] Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji
       Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context
       based on handwriting features." In Proceedings of the 10th Augmented Human International
