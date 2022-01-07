@@ -1,5 +1,5 @@
 +++
-date = 2022-01-06T15:00:00Z
+date = 2019-03-31T15:00:00Z
 description = "This project is about emotion recognition via digital pen and handwritings. "
 image = "/images/pen.jpg"
 image_webp = ""
