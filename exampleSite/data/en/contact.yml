@@ -5,6 +5,11 @@ contact:
   subtitle: ''
   content: ''
   contact_list:
+  - info: "[8] Yifan Zhuang, Keitaro Tsuchiya, Takuro Nakao, Jiawen Han, Megumi Isoga,
+      Shinya Shimizu, and Kai Kunze. 2022. Emolleia – Wearable Kinetic Flower Display
+      for Expressing Emotions. In Sixteenth International Conference on Tangible,
+      Embedded, and Embodied Interaction (TEI ’22), February 13–16, 2022"
+    icon: ''
   - info: '[7] Jiawen Han, Chi-lan Yang, George Chernyshov, Zhuoqi Fu, Reiya Horii,
       Takuji Narumi, and Kai Kunze. "Exploring Collective Physiology Sharing as Social
       Cues to Support Engagement in Online Learning." In 20th International Conference
