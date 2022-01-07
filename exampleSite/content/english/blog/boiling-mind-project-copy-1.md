@@ -37,7 +37,7 @@ _\[2\] Talks by Professor Kai Kunze: Frisson Waves - Augmenting Aesthetic Chills
 
 _\[3\] Article by Moonshot project_ ([https://cybernetic-being.org/works/frisson-waves/](https://cybernetic-being.org/works/frisson-waves/ "https://cybernetic-being.org/works/frisson-waves/")).
 
-#### **Contributors**
+### **Contributors**
 
 Direction / Project Lead: Yan He  
 Technical Direction / Engineering: George Chernyshov  
@@ -46,10 +46,10 @@ Performing: Muyu Liu / Danny Hynds / Yuehui Yang / Ragnar Thomsen / Yan He
 Technical Support: Dingding Zheng  
 Research Supervisor: Kouta Minamizawa / Kai Kunze / Yun Suen Pai
 
-#### **Special thanks**
+### **Special thanks**
 
 J.Y.PLANNING / Studio Apollon / Jamie Ward / Kinga Skierś / Ziyue Wang / Qianqian Mu / Kanyu Chen / Matsuda Kento / Qing Zhang / Christopher Kim / Yulan Ju
 
-#### **Funding**
+### **Funding**
 
-###### Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot.
+##### Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot.
