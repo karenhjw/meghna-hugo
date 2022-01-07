@@ -20,14 +20,14 @@ The structure of the study was the following.
 2. Baseline SAM test and recording session without film clips.
 3. Four recording sessions, one session for each film clip category (HV-HA, HV-LA, LV-HA, LV-LA). After each watching, participants worked on three handwriting tasks for data collection.
 
-### Model Training and Evaluation
+### Model Performance
 
 Excluding stroke start and end time we analyzed the remaining 40 features in order to test whether there is any relation between the handwriting features and the self-reported emotional state of the participant recorded using the SAM. In order to do this we used the C-Support Vector Classification (SVC) from scikit-learn library with valence, arousal and dominance ratings as labels. In order to select the most promising features we have calculated the Gini Importance for each feature for each of the three tasks separately. Then selected and combined top 10 features from each of the tasks.
 
-The score results of this classification are presented on the figure below. We ran classification on the data sets from each task and on all three tasks combined. It was found that the classification precision changes greatly if we use only short or only long strokes. The stroke data was split into short and long strokes in relation to the median for each data set used. Short strokes gave particularly good results for task 3, as it required participants to draw mostly short lines. Accuracy for this test is reaching 66% for 1 in 4 groups classification. Using long strokes showed better results for tasks 1 and 2 with accuracy of 50 and 51% respectively. Surprisingly, the accuracy of classification of the short stroke data set for all 3 tasks was higher than for long stroke data set (47% for short and 35% for long).
+The score results of this classification are presented in the Figure below. We ran classification on the data sets from each task and on all three tasks combined. It was found that the classification precision changes greatly if we use only short or only long strokes. The stroke data was split into short and long strokes in relation to the median for each data set used. Short strokes gave particularly good results for task 3, as it required participants to draw mostly short lines. Accuracy for this test is reaching 66% for 1 in 4 groups classification. Using long strokes showed better results for tasks 1 and 2 with accuracy of 50 and 51% respectively. Surprisingly, the accuracy of classification of the short stroke data set for all 3 tasks was higher than for long stroke data set (47% for short and 35% for long).
 
 ![](/images/independent.jpg)
 
-### Related Publications
+### See More Details in the Related Publications
 
 _\[1\]_ Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context based on handwriting features." In _Proceedings of the 10th Augmented Human International Conference 2019_, pp. 1-8. 2019.
