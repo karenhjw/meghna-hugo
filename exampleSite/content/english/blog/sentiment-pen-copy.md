@@ -1,7 +1,6 @@
 +++
 date = 2022-01-06T15:00:00Z
 description = "online class streaming and hr sharing "
-draft = true
 image = "/images/boilingmind.jpg"
 image_webp = "/images/boilingmind.webp"
 title = "HR Sharing as Connection"
