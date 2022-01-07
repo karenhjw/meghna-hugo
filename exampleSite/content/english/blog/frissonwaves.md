@@ -17,8 +17,6 @@ The system we used in the frisson sharing concert is consisted of :
 3. A neckband with Peltier thermoelectric cooler modules (TEC) and vibro-tactile actuators which can trigger frisson.
 4. A sharing server that controls the operation of all the devices and manages data processing and recording.
 
-![](/images/frisson_concert.webp)
-
 ### **Model Performance**
 
 In order to train the model, we processed the recorded EDA and blood volume pulse (BVP) data as well as when the participants pressed the frisson-report button for data labeling. Our model was trained using the features extracted from a sliding window of one minute with one second overlap. The window was labeled as a frisson event if the button was pressed within the window.  We extracted four EDA features and three HRV features for training the model and applied leave one participant out cross validation (LOPO-CV) to divide data into training and testing sets. The classifier with the best performance presented an average accuracy score of 85.78% (sd = 11.23%).
