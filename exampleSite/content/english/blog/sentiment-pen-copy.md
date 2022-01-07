@@ -6,7 +6,7 @@ image_webp = "/images/boilingmind.webp"
 title = "HR Sharing as Connection"
 
 +++
-HR Sharing as Connection project is to explore the 
+HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants. 
 
 ### Project Description
 
