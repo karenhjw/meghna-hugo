@@ -10,15 +10,11 @@ Emolleia Flowers project is to explore and design novel non-verbal interaction t
 
 ### **Prototype Design**
 
-![](/images/emollia.jpg)
-
 The device was constructed by three main parts, flowers, servo motors case and a steel chain to fix the device on the body. The 3d printing flowers are fixed at the stem and consist of five petals with a diameter of 6 \[cm\]. We chose Elastic 50A resin as flower's material since the softness allows the prototype to bend over and reform motion freely, the special transparency of this material also matched our designed sketch.
 
 ### **User Study**
 
 To explore potential use cases, self-expression possibilities and the general perception of the prototype, we conducted a series of online survey. After watching eight animated motions, participants rated the arousal and valence for each. Based on the mapping to the emotion model, we picked three obviously distinguishable animated motions for our next stage user studies.
-
-![](/images/emollia2.jpg)
 
 ### **See More Details in Related Publications**
 
