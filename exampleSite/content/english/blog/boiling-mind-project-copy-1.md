@@ -12,7 +12,7 @@ Frisson Waves project is a series of embodied concerts aiming to sharing frisson
 
 When live performances deeply resonate with us, our bodies respond with physiological reactions - we call this phenomenon "frisson". However, while some people have a strong frisson response, not all people perceive these moments of mind-body dualism naturally. This ongoing research project aims to understand, share and augment how we experience frisson at classical piano performances.
 
-### Related Publications 
+### See More Details in Related Publications 
 
 _\[1\]_ He, Y., D. Zheng, G. Chernyshov, R. Thomsen, J. Han, D. Hynds, Y. S. Pai, K. Kunze, and K. Minamizawa. "Frisson Waves: Sharing Frisson to Create Collective Empathetic Experiences for Music Performances." In 2021 IEEE World Haptics Conference (WHC), pp. 591-591. IEEE, 2021.
 
