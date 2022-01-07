@@ -10,8 +10,6 @@ BoilingMind is an embodied performance project based on artistic practices and m
 
 There were one preliminary dance performance and one main final performance ([https://www.youtube.com/watch?v=nTQeedSZU20](https://www.youtube.com/watch?v=nTQeedSZU20 "https://www.youtube.com/watch?v=nTQeedSZU20")) presented as the artistic product. Both researchers and artists contributed to developing the concept during the iterative process to balance research and artistic interests. This process was mainly led by artists, especially the choreographer. 
 
-![](/images/boiling-mind.webp)
-
 Besides the predetermined story and design, the choreographer was collaborating with us allowing some improvisational parts where music and dancers could respond to the feedback from the audience. During the performance, the physiological data of the audience was captured using custom built smart wristbands. The physiological data includes heartbeats, EDA, and the LF/HF ratio related to the heart rate variability. The staging elements changed based on the audience's physiological data.
 
 ### Exploratory Analysis of Physiological Dataset
