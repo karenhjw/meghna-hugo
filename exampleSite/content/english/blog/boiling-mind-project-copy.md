@@ -1,7 +1,6 @@
 +++
 date = 2022-01-06T15:00:00Z
 description = "This project is about emotion recognition via digital pen and handwritings. "
-draft = true
 image = "/images/boilingmind.jpg"
 image_webp = "/images/boilingmind.webp"
 title = "Sentiment Pen "
