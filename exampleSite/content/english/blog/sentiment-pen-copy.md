@@ -2,15 +2,15 @@
 date = 2022-01-06T15:00:00Z
 description = "online class streaming and hr sharing "
 image = "/images/share_hr.jpg"
-image_webp = ""
+image_webp = "/images/share_hr.webp"
 title = "HR Sharing as Connection"
 
 +++
-HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants. This project is under the Cybernetic Being project supported by JST Moonshot.
+HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants. This project is under the Cybernetic Being project supported by JST Moonshot. This article describes our initial field study where collective HR of distributed learners. 
 
 #### Project Description
 
-TInsufficient social cues between distributed learners in online learning could result in lack of engagement and social bonds. With the development of wearable sensing, sharing physiological data can be used to enhance mutual understanding and connectedness among sharers. Our work aims to explore the potential of sharing heart rate (HR) and heart rate variability (HRV) collected from distributed learners to enhance their online learning experiences. We implemented a physiological streaming system and conducted a field study with 11 learners in online classes.  Our exploratory results suggest streaming collective HR and HRV from multiple distributed learners could be used in online classes to improve engagement and sense of community.
+Insufficient social cues between distributed learners in online learning could result in lack of engagement and social bonds. With the development of wearable sensing, sharing physiological data can be used to enhance mutual understanding and connectedness among sharers. Our work aims to explore the potential of sharing heart rate (HR) and heart rate variability (HRV) collected from distributed learners to enhance their online learning experiences. We implemented a physiological streaming system and conducted a field study with 11 learners in online classes.  Our exploratory results suggest streaming collective HR and HRV from multiple distributed learners could be used in online classes to improve engagement and sense of community.
 
 #### Field Study
 
