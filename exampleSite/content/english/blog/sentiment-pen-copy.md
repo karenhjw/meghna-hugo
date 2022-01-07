@@ -8,9 +8,7 @@ title = "HR Sharing as Connection"
 +++
 HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants. Insufficient social cues between distributed learners in online learning could result in lack of engagement and social bonds. With the development of wearable sensing, sharing physiological data can be used to enhance mutual understanding and connectedness among sharers. Our work aims to explore the potential of sharing heart rate (HR) and heart rate variability (HRV) collected from distributed learners to enhance their online learning experiences. We implemented a physiological streaming system and conducted a field study with 11 learners in online classes.  Our exploratory results suggest streaming collective HR and HRV from multiple distributed learners could be used in online classes to improve engagement and sense of community.
 
-_This project is under the Cybernetic Being project supported by JST Moonshot._
-
-**Field Study**
+#### Field Study
 
 We conducted a field study to investigate how distributed learners react to the streaming system that presents collective HR and HRV measurements in real time. Our system tracked Blood Volume Pulse (BVP) from self-built wrist-worn devices with an optical sensor placed on the fingertip referring to the set-up in previous work.
 
@@ -22,7 +20,7 @@ We implemented glance-able line charts right below the presenter’s slide conte
 
 ![](/images/streaming.jpg)
 
-**Feedback**
+#### Feedback
 
 **_1. Motivation towards the Visual Streaming._**
 
@@ -41,3 +39,7 @@ Survey results also showed perceived psychological engagement was slightly highe
 #### See More Details in the Related Publications
 
 _\[1\]_ _Jiawen Han, Chi-lan Yang, George Chernyshov, Zhuoqi Fu, Reiya Horii, Takuji Narumi, and Kai Kunze. "Exploring Collective Physiology Sharing as Social Cues to Support Engagement in Online Learning." In 20th International Conference on Mobile and Ubiquitous Multimedia (MUM 2021), December 5–8, 2021_
+
+#### Funding
+
+###### _This project is in collaboration with the University of Tokyo under the Cybernetic Being project supported by JST Moonshot._
