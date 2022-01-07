@@ -24,26 +24,28 @@ _\[2\]Fu, Zhuoqi, Jiawen Han, Dingding Zheng, Moe Sugawa, Taichi Furukawa, Chern
 
 #### Contributors
 
-###### Project Lead/Artistic Direction/Dancer: Moe Sugawa
+Project Lead/Artistic Direction/Dancer: Moe Sugawa
 
-###### ScreenPlay/Dancer: Mademoiselle Cinema
+ScreenPlay/Dancer: Mademoiselle Cinema 
 
-###### Stage Direction: Session House
+Stage Direction: Session House
 
-###### Technical Direction: Yasushi Furukawa
+Stage Director | Choreography Naoko Ito, Shunsuke Nabeshima, Miho Ishiseki, Aio Uno
 
-###### Design, Operations: Yuuto Kawasaki, Yurike Chandra, Arima Shun
+Technical Direction: Yasushi Furukawa
 
-###### Adapitve Lighting: Marcelo Padovani
+Design, Operations: Yuuto Kawasaki, Yurike Chandra, Arima Shun
 
-###### Adaptive Sound/Music Design: Danny Hynds
+Adapitve Lighting: Marcelo Padovani
 
-###### Wearable Sensing/Analysis/Research: George Chenyshov, Dingding Zheng, Jiawen Han, Kirill Ragozin, Karola Marky, Jamie A. Ward, Zhuoqi Fu
+Adaptive Sound/Music Design: Danny Hynds
 
-###### Data Analysis: Jiawen Han, Jamie Ward, Kai Kunze, Zhuoqi Fu
+Wearable Sensing/Analysis/Research: George Chenyshov, Dingding Zheng, Jiawen Han, Kirill Ragozin, Karola Marky, Jamie A. Ward, Zhuoqi Fu
 
-###### Technical Supervision: Kota Minamizawa, Kai Kunze
+Technical Supervision: Kota Minamizawa, Kai Kunze
 
-#### Funding 
+Dataset Analysis: Jiawen Han, Jamie Ward, Kai Kunze, Zhuoqi Fu
+
+#### Funding
 
 ###### This project is supported by JST CREST and  JST Moonshot programs.
