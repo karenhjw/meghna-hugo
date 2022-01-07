@@ -10,23 +10,35 @@ HR Sharing as Connection project explores the feasibility of sharing physiologic
 
 ### Project Description
 
-The proposed concept exemplifies how a digital system could recognize the emotional context of the interaction. We discuss our approach to emotion recognition and the underlying neuro- physiological mechanisms. To verify the viability of our approach, we have conducted a series of tests where participants were asked to perform simple writing tasks after being exposed to a series of emotionally-stimulating video clips from The Emotional Movie Database (EMDB) one set of four clips per each quadrant on the circumplex model of emotion. The user-independent Support Vector Classifier (SVC) built using the recorded data shows up to 66% accuracy for certain types of writing tasks for 1 in 4 classification (1. High Valence, High Arousal; 2. High Valence, Low Arousal; 3. Low Valence, High Arousal; 4. Low Valence, Low Arousal).
+TInsufficient social cues between distributed learners in online learning could result in lack of engagement and social bonds. With the development of wearable sensing, sharing physiological data can be used to enhance mutual understanding and connectedness among sharers. Our work aims to explore the potential of sharing heart rate (HR) and heart rate variability (HRV) collected from distributed learners to enhance their online learning experiences. We implemented a physiological streaming system and conducted a field study with 11 learners in online classes.  Our exploratory results suggest streaming collective HR and HRV from multiple distributed learners could be used in online classes to improve engagement and sense of community.
 
-### Experiment Setup
+### Field Study
 
-The structure of the study was the following.
+We conducted a field study to investigate how distributed learners react to the streaming system that presents collective HR and HRV measurements in real time. Our system tracked Blood Volume Pulse (BVP) from self-built wrist-worn devices with an optical sensor placed on the fingertip referring to the set-up in previous work.
 
-1. Written informed consent.
-2. Baseline SAM test and recording session without film clips.
-3. Four recording sessions, one session for each film clip category (HV-HA, HV-LA, LV-HA, LV-LA). After each watching, participants worked on three handwriting tasks for data collection.
+![](/images/device.jpg)
 
-### Model Performance
+The device sampled the BVP at 50Hz and streamed to our system server via User Datagram Protocol (UDP), which supported distributed learners to stream their data without location restrictions.
 
-Excluding stroke start and end time we analyzed the remaining 40 features in order to test whether there is any relation between the handwriting features and the self-reported emotional state of the participant recorded using the SAM. In order to do this we used the C-Support Vector Classification (SVC) from scikit-learn library with valence, arousal and dominance ratings as labels. In order to select the most promising features we have calculated the Gini Importance for each feature for each of the three tasks separately. Then selected and combined top 10 features from each of the tasks.
+We implemented glance-able line charts right below the presenter’s slide content  to avoid distracting learners from the class content. BPM was selected as an intuitive HR indicator of excitement and anxiety. While pNN50 was adopted as an established HRV feature to reflect relaxation and sustained attention.
 
-The score results of this classification are presented in the Figure below. We ran classification on the data sets from each task and on all three tasks combined. It was found that the classification precision changes greatly if we use only short or only long strokes. The stroke data was split into short and long strokes in relation to the median for each data set used. Short strokes gave particularly good results for task 3, as it required participants to draw mostly short lines. Accuracy for this test is reaching 66% for 1 in 4 groups classification. Using long strokes showed better results for tasks 1 and 2 with accuracy of 50 and 51% respectively. Surprisingly, the accuracy of classification of the short stroke data set for all 3 tasks was higher than for long stroke data set (47% for short and 35% for long).
+![](/images/streaming_visual.jpg)
 
- ![Streaming system used in the field study. Left is the device for streaming blood volume pressure (BVP) signal. Right is the interface consisted of class content area, streaming area, and camera area.The visualization in the streaming area was generated based on two features: (1) beats per minute (BPM) (2) the percentage of adjacent normal sinus beats’ interbeat intervals that differ from each other by more than 50 ms (pNN50). The red and blue lines represented collective BPM and pNN50 respectively and both were calculated from rolling means of all data contributors every one minute.](/images/streaming.jpg "Streaming system used in the field study.")
+### Feedback
+
+**_1. Motivation towards the Visual Streaming._**
+
+All the participants reported they had the motivation to look at the streaming visual. Main reasons were the curiosity in others' reactions and the awareness of what’s going on in the class. Moreover, data contributors did not report privacy concerns with the sharing mostly because of the visual was shown in an aggregated manner and perceived anonymity.
+
+**_2. Enhanced Engagement and Social Bond._**
+
+Participants reported increasing engagement and sense of community with the streaming system.
+
+a) Data contributors: Involved in the class more actively and felt more connected to ther distributed learners by seeing the data visualization.
+
+b) Data viewers: a little hard to understand the system setup, such as how was the data recorded, integrated, and transformed. However, they were still interested in the trend and fluctuations of the streaming visualization
+
+Survey results also showed perceived psychological engagement was slightly higher in the streaming session _(M = 3.99, SD = 0.38)_ than that without streaming _(M = 3.73, SD = 0.4)_, with a marginal significant difference _(t\[32\]= 1.95 , (.05 < p <.10))_.
 
 ### See More Details in the Related Publications
 
