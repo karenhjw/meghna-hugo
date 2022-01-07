@@ -17,19 +17,14 @@ The system we used in the frisson sharing concert is consisted of :
 3. A neckband with Peltier thermoelectric cooler modules (TEC) and vibro-tactile actuators which can trigger frisson.
 4. A sharing server that controls the operation of all the devices and manages data processing and recording.
 
-   
-
-               ![](/images/frisson_concert2.jpg)
+![](/images/frisson_concert2.jpg)
 
 #### **Model Performance**
 
 In order to train the model, we processed the recorded EDA and blood volume pulse (BVP) data as well as when the participants pressed the frisson-report button for data labeling. Our model was trained using the features extracted from a sliding window of one minute with one second overlap. The window was labeled as a frisson event if the button was pressed within the window.  We extracted four EDA features and three HRV features for training the model and applied leave one participant out cross validation (LOPO-CV) to divide data into training and testing sets. The classifier with the best performance presented an average accuracy score of 85.78% (sd = 11.23%).
 
-  
-
-                    ![](/images/frisson_cm.jpg)
-
-#### **Exploratory Analysis of the Physiological Dataset**
+#### ![](/images/frisson_cm.jpg)  
+**Exploratory Analysis of the Physiological Dataset**
 
 During the concert, half of the audience were wearing the devices for sharing frisson (neckband) while the other half were not. Besides comparing subjective feedback from the two groups, we also explored the physiological data collected and calculated the physiological synchrony (PS) of each group. PS occurs when the “physiological activity between two or more people” becomes associated or interdependent” and could be used as a feasible metric to quantify the experience of physiological connectedness. We conducted the decomposition into EDA tonic and EDA phasic, normalized the two components to remove individual differences, and processed dynamic time warping (DTW) to calculate the accumulated distance between every two persons in each group. Our findings may suggest wearing the neckband and sharing frisson could provide audience members more physiologically similar experiences in terms of short-term and sudden feelings of arousal compared with the long-term trend in certain concert sessions. _(submission under review)_
 
