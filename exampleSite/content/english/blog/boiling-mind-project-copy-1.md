@@ -22,22 +22,13 @@ _\[2\] Talks by Professor Kai Kunze: Frisson Waves - Augmenting Aesthetic Chills
 
 ### Contributors
 
-Project Lead/Artistic Direction/Dancer: Moe Sugawa
+**CREDIT**  
+Direction / Project Lead: Yan He  
+Technical Direction / Engineering: George Chernyshov  
+Data Engineering: Jiawen Han  
+Performing: Muyu Liu / Danny Hynds / Yuehui Yang / Ragnar Thomsen / Yan He  
+Technical Support: Dingding Zheng  
+Research Supervisor: Kouta Minamizawa / Kai Kunze / Yun Suen Pai
 
-ScreenPlay/Dancer: Mademoiselle Cinema
-
-Stage Direction: Session House
-
-Technical Direction: Yasushi Furukawa
-
-Design, Operations: Yuuto Kawasaki, Yurike Chandra, Arima Shun
-
-Adapitve Lighting: Marcelo Padovani
-
-Adaptive Sound/Music Design: Danny Hynds
-
-Wearable Sensing/Analysis/Research: George Chenyshov, Dingding Zheng, Jiawen Han, Kirill Ragozin, Karola Marky, Jamie A. Ward, Zhuoqi Fu
-
-Data Analysis: Jiawen Han, Jamie Ward, Kai Kunze, Zhuoqi Fu
-
-Technical Supervision: Kota Minamizawa, Kai Kunze
+**Special thanks**  
+J.Y.PLANNING / Studio Apollon / Jamie Ward / Kinga Skierś / Ziyue Wang / Qianqian Mu / Kanyu Chen / Matsuda Kento / Qing Zhang / Christopher Kim / Yulan Ju
