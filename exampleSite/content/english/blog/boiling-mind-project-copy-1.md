@@ -8,11 +8,13 @@ title = "Frisson Waves Project "
 +++
 Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members. Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot.
 
-### Project Description
+#### Project Description
 
 When live performances deeply resonate with us, our bodies respond with physiological reactions - we call this phenomenon "frisson". However, while some people have a strong frisson response, not all people perceive these moments of mind-body dualism naturally. This ongoing research project aims to understand, share and augment how we experience frisson at classical piano performances.
 
-### See More Details in Related Publications
+#### Model Performance
+
+#### See More Details in Related Publications
 
 _\[1\]_ He, Y., D. Zheng, G. Chernyshov, R. Thomsen, J. Han, D. Hynds, Y. S. Pai, K. Kunze, and K. Minamizawa. "Frisson Waves: Sharing Frisson to Create Collective Empathetic Experiences for Music Performances." In 2021 IEEE World Haptics Conference (WHC), pp. 591-591. IEEE, 2021.
 
@@ -20,7 +22,7 @@ _\[2\] Talks by Professor Kai Kunze: Frisson Waves - Augmenting Aesthetic Chills
 
 _\[3\] Article by Moonshot project_ ([https://cybernetic-being.org/works/frisson-waves/](https://cybernetic-being.org/works/frisson-waves/ "https://cybernetic-being.org/works/frisson-waves/")).
 
-### Contributors
+#### Contributors
 
 **CREDIT**  
 Direction / Project Lead: Yan He  
