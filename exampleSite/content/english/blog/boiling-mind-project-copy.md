@@ -6,7 +6,7 @@ image_webp = "/images/boilingmind.webp"
 title = "Sentiment Pen "
 
 +++
-BoilingMind is an embodied performance project based on artistic practices and multi-disciplinary collaborations (Session House dancer team, HCI researchers, and wearable computing researchers).  We are guided by an interest in the link between performers and audience members, and the wider question of what makes live performance special.
+Sentiment pen project is to investigate the possibilities of emotion recognition via daily life activities -- writing and drawing. 
 
 ### Project Description
 
@@ -14,7 +14,7 @@ There were one preliminary dance performance and one main final performance ([ht
 
 ### Experiment Setup
 
-### Model Training and Evaluation 
+### Model Training and Evaluation
 
 ### Related Publications
 
