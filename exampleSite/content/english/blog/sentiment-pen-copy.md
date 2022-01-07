@@ -6,7 +6,7 @@ image_webp = "/images/boilingmind.webp"
 title = "HR Sharing as Connection"
 
 +++
-HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants. 
+HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants.
 
 ### Project Description
 
@@ -30,4 +30,4 @@ The score results of this classification are presented in the Figure below. We r
 
 ### See More Details in the Related Publications
 
-_\[1\]_ Han, Jiawen, George Chernyshov, Dingding Zheng, Peizhong Gao, Takuji Narumi, Katrin Wolf, and Kai Kunze. "Sentiment pen: Recognizing emotional context based on handwriting features." In _Proceedings of the 10th Augmented Human International Conference 2019_, pp. 1-8. 2019.
+_\[1\]_ _Jiawen Han, Chi-lan Yang, George Chernyshov, Zhuoqi Fu, Reiya Horii, Takuji Narumi, , and Kai Kunze. "Exploring Collective Physiology Sharing as Social Cues to Support Engagement in Online Learning." In 20th International Conference on Mobile and Ubiquitous Multimedia (MUM 2021), December 5–8, 2021_
