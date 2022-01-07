@@ -6,7 +6,7 @@ image_webp = "/images/boilingmind.webp"
 title = "HR Sharing as Connection"
 
 +++
-HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants.
+HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants. This project is under the Cybernetic Being project supported by JST Moonshot.
 
 ### Project Description
 
