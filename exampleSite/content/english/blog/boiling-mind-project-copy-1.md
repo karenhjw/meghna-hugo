@@ -2,17 +2,22 @@
 date = 2022-01-05T15:00:00Z
 description = "This project is a collaboration with Heyan. "
 image = "/images/frisson.jpg"
-image_webp = ""
+image_webp = "/images/frisson.webp"
 title = "Frisson Waves Project "
 
 +++
-Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members. When live performances deeply resonate with us, our bodies respond with physiological reactions - we call this phenomenon "frisson". However, while some people have a strong frisson response, not all people perceive these moments of mind-body dualism naturally. This ongoing research project aims to understand, share and augment how we experience frisson at classical piano performances. 
+Frisson Waves project is a series of embodied concerts aiming to sharing frisson experience among the audience members. When live performances deeply resonate with us, our bodies respond with physiological reactions - we call this phenomenon "frisson". However, while some people have a strong frisson response, not all people perceive these moments of mind-body dualism naturally. This ongoing research project aims to understand, share and augment how we experience frisson at classical piano performances.
+
+The system we used in the frisson sharing concert is consisted of :
+
+1. A physiological sensing wristband that records and extracts EDA and HRV that can be used to detect when someone has frisson.
+2. 
 
 _Frisson Waves project is under the Cybernetic Being project supported by JST Moonshot._
 
-#### Model Performance
+**Model Performance**
 
-#### See More Details in Related Publications
+**See More Details in Related Publications**
 
 _\[1\]_ He, Y., D. Zheng, G. Chernyshov, R. Thomsen, J. Han, D. Hynds, Y. S. Pai, K. Kunze, and K. Minamizawa. "Frisson Waves: Sharing Frisson to Create Collective Empathetic Experiences for Music Performances." In 2021 IEEE World Haptics Conference (WHC), pp. 591-591. IEEE, 2021.
 
@@ -20,9 +25,7 @@ _\[2\] Talks by Professor Kai Kunze: Frisson Waves - Augmenting Aesthetic Chills
 
 _\[3\] Article by Moonshot project_ ([https://cybernetic-being.org/works/frisson-waves/](https://cybernetic-being.org/works/frisson-waves/ "https://cybernetic-being.org/works/frisson-waves/")).
 
-#### Contributors
-
-**CREDIT**  
+**Contributors**  
 Direction / Project Lead: Yan He  
 Technical Direction / Engineering: George Chernyshov  
 Data Engineering: Jiawen Han  
