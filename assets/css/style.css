@@ -547,7 +547,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #5a6770;
+  background: #49545c;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -1220,7 +1220,7 @@ a:hover {
 }
 
 .post-block {
-  background-color: #5a6770;
+  background-color: #49545c;
   margin-bottom: 10px;
 }
 
