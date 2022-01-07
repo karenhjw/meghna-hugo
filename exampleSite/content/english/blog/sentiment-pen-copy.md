@@ -8,21 +8,21 @@ title = "HR Sharing as Connection"
 +++
 HR Sharing as Connection project explores the feasibility of sharing physiological data to enhance the connection between remote interactants. Insufficient social cues between distributed learners in online learning could result in lack of engagement and social bonds. With the development of wearable sensing, sharing physiological data can be used to enhance mutual understanding and connectedness among sharers. Our work aims to explore the potential of sharing heart rate (HR) and heart rate variability (HRV) collected from distributed learners to enhance their online learning experiences. We implemented a physiological streaming system and conducted a field study with 11 learners in online classes.  Our exploratory results suggest streaming collective HR and HRV from multiple distributed learners could be used in online classes to improve engagement and sense of community.
 
-_This project is under the Cybernetic Being project supported by JST Moonshot._ 
+_This project is under the Cybernetic Being project supported by JST Moonshot._
 
-#### Field Study
+**Field Study**
 
 We conducted a field study to investigate how distributed learners react to the streaming system that presents collective HR and HRV measurements in real time. Our system tracked Blood Volume Pulse (BVP) from self-built wrist-worn devices with an optical sensor placed on the fingertip referring to the set-up in previous work.
 
-![](/images/device.jpg)
+![](/images/device-1.jpg)
 
 The device sampled the BVP at 50Hz and streamed to our system server via User Datagram Protocol (UDP), which supported distributed learners to stream their data without location restrictions.
 
 We implemented glance-able line charts right below the presenter’s slide content  to avoid distracting learners from the class content. BPM was selected as an intuitive HR indicator of excitement and anxiety. While pNN50 was adopted as an established HRV feature to reflect relaxation and sustained attention.
 
-![](/images/streaming_visual.jpg)
+![](/images/streaming.jpg)
 
-#### Feedback
+**Feedback**
 
 **_1. Motivation towards the Visual Streaming._**
 
