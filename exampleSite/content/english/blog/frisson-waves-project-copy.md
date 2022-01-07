@@ -1,7 +1,6 @@
 +++
 date = 2021-08-31T15:00:00Z
 description = "This project is a collaboration with yin. "
-draft = true
 image = "/images/emolleia.jpg"
 image_webp = "/images/emolleia.webp"
 title = "Emolleia Flowers"
