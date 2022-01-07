@@ -16,8 +16,6 @@ The choreographer was collaborating with us allowing some improvisational parts 
 
 ### Exploratory Analysis of Physiological Dataset
 
-![](/images/boiling-mind-lfhf.jpg)
-
 Besides triggering the staging effects, the audience physiological data were also recorded at the same time. We collected 98 audience multi-modal signals over three performances following one choreography design. By ruling out incomplete or noisy data records, we have 80 sets of data for our later data analysis. In our exploratory analysis, we calculated HRV (LF/HF ratio and pNN50) and EDA (EDA change and EDA extrema)features from filtered signal data. We correlated to the performance design especially the choreography design and generated a mapping from the data analysis (_submission under review_).
 
 ### See More Details in Related Publications
