@@ -17,8 +17,6 @@ The system we used in the frisson sharing concert is consisted of :
 3. A neckband with Peltier thermoelectric cooler modules (TEC) and vibro-tactile actuators which can trigger frisson.
 4. A sharing server that controls the operation of all the devices and manages data processing and recording.
 
-![](/images/frisson_concert2.jpg)
-
 ![](/images/frisson_concert2.webp)
 
 ### **Model Performance**
