@@ -8,11 +8,11 @@ title = "Boiling Mind Project "
 +++
 BoilingMind is an embodied performance project based on artistic practices and multi-disciplinary collaborations (Session House dancer team, HCI researchers, and wearable computing researchers).  We are guided by an interest in the link between performers and audience members, and the wider question of what makes live performance special.
 
-There were one preliminary dance performance and one main final performance ([https://www.youtube.com/watch?v=nTQeedSZU20](https://www.youtube.com/watch?v=nTQeedSZU20 "https://www.youtube.com/watch?v=nTQeedSZU20")) presented as the artistic product. Both researchers and artists contributed to developing the concept during the iterative process to balance research and artistic interests. This process was mainly led by artists, especially the choreographer. Besides the predetermined story and design, the choreographer also created some improvisational sections where dancers could interact with stage elements affected by audience physiological response.
+There were one preliminary dance performance and one main final performance ([https://www.youtube.com/watch?v=nTQeedSZU20](https://www.youtube.com/watch?v=nTQeedSZU20 "https://www.youtube.com/watch?v=nTQeedSZU20")) presented as the artistic product. Both researchers and artists contributed to developing the concept during the iterative process to balance research and artistic interests. This process was mainly led by artists, especially the choreographer. 
 
 ![](/images/boiling-mind.webp)
 
-The choreographer was collaborating with us allowing some improvisational parts where music and dancers could respond to the feedback from the audience. During the performance, the physiological data of the audience was captured using custom built smart wristbands. The physiological data includes heartbeats, EDA, and the LF/HF ratio related to the heart rate variability. The staging elements changed based on the audience's physiological data.
+Besides the predetermined story and design, the choreographer was collaborating with us allowing some improvisational parts where music and dancers could respond to the feedback from the audience. During the performance, the physiological data of the audience was captured using custom built smart wristbands. The physiological data includes heartbeats, EDA, and the LF/HF ratio related to the heart rate variability. The staging elements changed based on the audience's physiological data.
 
 ### Exploratory Analysis of Physiological Dataset
 
