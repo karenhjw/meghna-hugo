@@ -10,9 +10,15 @@ Sentiment pen project is to investigate the possibilities of emotion recognition
 
 ### Project Description
 
-There were one preliminary dance performance and one main final performance ([https://www.youtube.com/watch?v=nTQeedSZU20](https://www.youtube.com/watch?v=nTQeedSZU20 "https://www.youtube.com/watch?v=nTQeedSZU20")) presented as the artistic product. Both researchers and artists contributed to developing the concept during the iterative process to balance research and artistic interests. This process was mainly led by artists, especially the choreographer. Besides the predetermined story and design, the choreographer also created some improvisational sections where dancers could interact with stage elements affected by audience physiological response.
+The proposed concept exemplifies how a digital system could recognize the emotional context of the interaction. We discuss our approach to emotion recognition and the underlying neuro- physiological mechanisms. To verify the viability of our approach, we have conducted a series of tests where participants were asked to perform simple writing tasks after being exposed to a series of emotionally-stimulating video clips from The Emotional Movie Database (EMDB) one set of four clips per each quadrant on the circumplex model of emotion. The user-independent Support Vector Classifier (SVC) built using the recorded data shows up to 66% accuracy for certain types of writing tasks for 1 in 4 classification (1. High Valence, High Arousal; 2. High Valence, Low Arousal; 3. Low Valence, High Arousal; 4. Low Valence, Low Arousal).
 
 ### Experiment Setup
+
+The structure of the study was the following.
+
+1. Written informed consent.
+2. Baseline SAM test and recording session without film clips.
+3. Four recording sessions, one session for each film clip category (HV-HA, HV-LA, LV-HA, LV-LA). After each watching, participants worked on three handwriting tasks for data collection. 
 
 ### Model Training and Evaluation
 
