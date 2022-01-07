@@ -15,7 +15,7 @@ html {
 body {
   background-color: #f7fafc;
   font-family: "Anaheim", sans-serif;
-  color: #86a1b8;
+  color: #8997a3;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -547,7 +547,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #58646e;
+  background: #4b4c4d;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -1220,7 +1220,7 @@ a:hover {
 }
 
 .post-block {
-  background-color: #58646e;
+  background-color: #4b4c4d;
   margin-bottom: 10px;
 }
 
