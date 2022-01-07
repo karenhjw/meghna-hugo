@@ -12,13 +12,9 @@ HR Sharing as Connection project explores the feasibility of sharing physiologic
 
 We conducted a field study to investigate how distributed learners react to the streaming system that presents collective HR and HRV measurements in real time. Our system tracked Blood Volume Pulse (BVP) from self-built wrist-worn devices with an optical sensor placed on the fingertip referring to the set-up in previous work.
 
-![](/images/device-1.jpg)
-
 The device sampled the BVP at 50Hz and streamed to our system server via User Datagram Protocol (UDP), which supported distributed learners to stream their data without location restrictions.
 
 We implemented glance-able line charts right below the presenter’s slide content  to avoid distracting learners from the class content. BPM was selected as an intuitive HR indicator of excitement and anxiety. While pNN50 was adopted as an established HRV feature to reflect relaxation and sustained attention.
-
-![](/images/streaming.jpg)
 
 ### Feedback
 
