@@ -25,7 +25,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 400;
+  font-weight: 600;
   font-family: "Quattrocento Sans", sans-serif;
   color: #57cbcc;
 }
@@ -296,13 +296,13 @@ a:hover {
 }
 
 .title {
-  padding-bottom: 60px;
+  padding-bottom: 80px;
 }
 
 .title h2 {
   text-transform: capitalize;
   font-weight: 700;
-  font-size: 38px;
+  font-size: 60px;
   color: #646666;
 }
 
@@ -1230,7 +1230,7 @@ a:hover {
 
 .post-block .content h3 {
   margin: 0 0 6px;
-  font-size: 20px;
+  font-size: 28px;
   line-height: 1.5;
   text-transform: capitalize;
 }
@@ -1240,7 +1240,7 @@ a:hover {
 }
 
 .note .excerpt h3 {
-  font-size: 20px;
+  font-size: 28px;
   line-height: 1.5;
   text-transform: capitalize;
 }
@@ -1262,7 +1262,7 @@ a:hover {
 }
 
 .post-meta {
-  font-size: 13px;
+  font-size: 18px;
   margin: 20px 0 0;
   padding: 0 20px 10px;
 }
@@ -1275,7 +1275,7 @@ a:hover {
   color: #666;
   border-right: 1px solid #dedede;
   display: inline-block;
-  font-size: 13px;
+  font-size: 18px;
   margin: 10px 10px 0 0;
   padding-right: 10px;
 }
@@ -1310,7 +1310,7 @@ a:hover {
 }
 
 .blog-subtitle {
-  font-size: 15px;
+  font-size: 18px;
   padding-bottom: 10px;
   border-bottom: 1px solid #dedede;
   margin-bottom: 25px;
