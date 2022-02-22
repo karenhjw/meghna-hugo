@@ -163,11 +163,11 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #b2c3d1;
+  background-color: #fff;
 }
 
 .bg-dark {
-  background: #b2c3d1;
+  background: #fff;
 }
 
 .parallax-section {
@@ -663,7 +663,7 @@ a:hover {
   padding: 100px 0;
   background-image: url("../images/call-to-action/call-to-action-bg.jpg");
   background-size: cover;
-  color: #fff;
+  color: #b2c3d1;
 }
 
 .call-to-action-2 h2 {
@@ -671,7 +671,7 @@ a:hover {
 }
 
 .call-to-action-2 p {
-  color: #fff;
+  color: #b2c3d1;
 }
 
 .call-to-action-2 .btn-main {
