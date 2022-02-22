@@ -3,7 +3,7 @@ contact:
   enable: true
   title: Publications
   subtitle: ''
-  content: ''
+  content: 'contact content '
   contact_list:
   - info: '[8] Yifan Zhuang, Keitaro Tsuchiya, Takuro Nakao, Jiawen Han, Megumi Isoga,
       Shinya Shimizu, and Kai Kunze. 2022. "Emolleia – Wearable Kinetic Flower Display
