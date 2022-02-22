@@ -47,12 +47,12 @@ pre {
 ==================================================================*/
 ::-moz-selection {
   /* Code for Firefox */
-  color: #57cbcc;
+  color: #8997a3;
   background: #ffffff;
 }
 
 ::selection {
-  color: #57cbcc;
+  color: #8997a3;
   background: #ffffff;
 }
 
