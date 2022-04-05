@@ -3,7 +3,7 @@ cta:
   enable: true
   bg_image: "/images/background.webp"
   bg_image_webp: "/images/background.webp"
-  title: 'Contact: hanjiawen@keio.jp'
+  title: ''
   content: ''
   button:
     enable: false
