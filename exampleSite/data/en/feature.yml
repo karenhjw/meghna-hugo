@@ -1,9 +1,9 @@
 ---
 feature:
-  enable: false
+  enable: true
   image: ''
   image_webp: ''
-  title: Publications
+  title: Feature Test
   content: 'This is the list of my publications. '
   feature_item:
   - title: "1"
