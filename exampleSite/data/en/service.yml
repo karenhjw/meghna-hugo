@@ -1,6 +1,6 @@
 ---
 service:
-  enable: true
+  enable: false
   title: Service TEST
   service_item:
   - name: test2
