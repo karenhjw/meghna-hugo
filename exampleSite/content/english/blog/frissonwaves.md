@@ -48,7 +48,7 @@ Research Supervisor: Kouta Minamizawa / Kai Kunze / Yun Suen Pai
 
 ### **Special thanks**
 
-##### J.Y.PLANNING / Studio Apollon / Jamie Ward / Kinga Skierś / Ziyue Wang / Qianqian Mu / Kanyu Chen / Matsuda Kento / Qing Zhang / Christopher Kim / Yulan Ju
+J.Y.PLANNING / Studio Apollon / Jamie Ward / Kinga Skierś / Ziyue Wang / Qianqian Mu / Kanyu Chen / Matsuda Kento / Qing Zhang / Christopher Kim / Yulan Ju
 
 ### **Funding**
 
