@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: "/images/background.webp"
-  bg_image_webp: "/images/background.webp"
+  bg_image: "/images/whiteback.jpg"
+  bg_image_webp: ''
   title: ''
   content: ''
   button:
