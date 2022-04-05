@@ -3,7 +3,10 @@ service:
   enable: true
   title: About Me
   service_item:
-  - name: WordPress Theme
+  - name: test2
+    icon: ''
+    content: ''
+  - name: 'test1 '
     icon: ti-world
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
