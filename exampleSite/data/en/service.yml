@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: About Me
+  title: Service TEST
   service_item:
   - name: test2
     icon: ''
