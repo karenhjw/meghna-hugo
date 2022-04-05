@@ -1,9 +1,9 @@
 ---
 cta:
-  enable: false
+  enable: true
   bg_image: "/images/background.webp"
   bg_image_webp: "/images/background.webp"
-  title: Previous Works
+  title: CTA test
   content: TEXT
   button:
     enable: false
