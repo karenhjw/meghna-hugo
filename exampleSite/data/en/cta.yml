@@ -3,7 +3,7 @@ cta:
   enable: true
   bg_image: "/images/whiteback.jpg"
   bg_image_webp: ''
-  title: In progress
+  title: ''
   content: ''
   button:
     enable: false
