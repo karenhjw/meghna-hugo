@@ -1,6 +1,6 @@
 ---
 service:
-  enable: false
+  enable: true
   title: About Me
   service_item:
   - name: WordPress Theme
